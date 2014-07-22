@@ -57,6 +57,6 @@ plot3 <- ggplot(value, aes(admin2, value, fill = region)) + theme_bw() +
 
 
 # saving plot
-ggsave(plot = plot1, 'plot1.png', height = 6.07, width = 11.21, units = 'in')
-ggsave(plot = plot2, 'plot2.png', height = 6.07, width = 11.21, units = 'in')
-ggsave(plot = plot3, 'plot3.png', height = 6.07, width = 11.21, units = 'in')
+ggsave(plot = plot1, 'plot1.png', height = 3, width = 11.21, units = 'in')
+ggsave(plot = plot2, 'plot2.png', height = 3, width = 11.21, units = 'in')
+ggsave(plot = plot3, 'plot3.png', height = 3, width = 11.21, units = 'in')
