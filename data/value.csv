@@ -1,988 +1,988 @@
 "region","admin1","admin2","period","source","indID","value","is_number"
-"BEN","Alibori",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","Poor",0,1
-"BEN","Atacora",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","Poor",6.08193930244706,1
-"BEN","Atlantique",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","Poor",0.63761629444039,1
-"BEN","Borgou",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","Poor",0,1
-"BEN","Collines",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","Poor",2.96974858440346,1
-"BEN","Couffo",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","Poor",6.19417827876139,1
-"BEN","Donga",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","Poor",2.56371823729648,1
-"BEN","Littoral",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","Poor",0,1
-"BEN","Mono",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","Poor",3.52713241184108,1
-"BEN","Oueme",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","Poor",0.842689086036564,1
-"BEN","Plateau",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","Poor",0,1
-"BEN","Zhou",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","Poor",1.424631157133,1
-"BEN",NA,NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","Poor",1.8,1
-"BEN","Alibori",NA,"2013","Not yet posted","Poor",1,1
-"BEN","Atacora",NA,"2013","Not yet posted","Poor",13,1
-"BEN","Atlantique",NA,"2013","Not yet posted","Poor",2,1
-"BEN","Borgou",NA,"2013","Not yet posted","Poor",7,1
-"BEN","Collines",NA,"2013","Not yet posted","Poor",1,1
-"BEN","Couffo",NA,"2013","Not yet posted","Poor",20,1
-"BEN","Donga",NA,"2013","Not yet posted","Poor",8,1
-"BEN","Littoral",NA,"2013","Not yet posted","Poor",0,1
-"BEN","Mono",NA,"2013","Not yet posted","Poor",15,1
-"BEN","Oueme",NA,"2013","Not yet posted","Poor",3,1
-"BEN","Plateau",NA,"2013","Not yet posted","Poor",1,1
-"BEN","Zhou",NA,"2013","Not yet posted","Poor",3,1
-"BEN","Cotonou ",NA,"2013","Not yet posted","Poor",0,1
-"BEN",NA,NA,"2013","Not yet posted","Poor",5,1
-"BDI","Muyinga",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","Poor",8.6,1
-"BDI","Kirundo",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","Poor",2.2,1
-"BDI","Cibitoke",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","Poor",7.7,1
-"BDI","Ngozi",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","Poor",8.2,1
-"BDI","Kayanza",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","Poor",1.3,1
-"BDI","Cankuzo",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","Poor",8.7,1
-"BDI","Karuzi",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","Poor",10.6,1
-"BDI","Bubanza",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","Poor",3.8,1
-"BDI","Gitega",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","Poor",3.7,1
-"BDI","Muramvya",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","Poor",2.2,1
-"BDI","Ruyigi",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","Poor",4.4,1
-"BDI","Bujumbura Rural",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","Poor",6,1
-"BDI","Mwaro",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","Poor",2.6,1
-"BDI","Bururi",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","Poor",1,1
-"BDI","Rutana",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","Poor",3.1,1
-"BDI","Makamba",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","Poor",0.6,1
-"BDI",NA,NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","Poor",4.8,1
-"CMR","Extreme-Nord",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/35","Poor",3,1
-"CMR","Nord",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/35","Poor",4,1
-"CMR","Adamaoua",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/35","Poor",10,1
-"CMR","Nord-Ouest",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/35","Poor",18,1
-"CMR","Sud-Ouest",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/35","Poor",12,1
-"CMR","Ouest",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/35","Poor",8,1
-"CMR","Centre",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/35","Poor",17,1
-"CMR","Est",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/35","Poor",7,1
-"CMR","Littoral",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/35","Poor",9,1
-"CMR","Sud",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/35","Poor",8,1
-"CMR",NA,NA,"2007","http://nada.vam.wfp.org/index.php/catalog/35","Poor",9,1
-"TCD","Batha",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","Poor",37.4,1
-"TCD","Chari-Baguirmi / Hadjer-Lamis",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","Poor",24,1
-"TCD","Guéra",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","Poor",10.5,1
-"TCD","Kanem",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","Poor",20.4,1
-"TCD","Lac",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","Poor",15.3,1
-"TCD","Logone Occidental",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","Poor",10.9,1
-"TCD","Logone Oriental",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","Poor",9.3,1
-"TCD","Moyen-Chari and Mandoul",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","Poor",18.1,1
-"TCD","Mayo-Kebbi Est and Ouest",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","Poor",23.4,1
-"TCD","Ouaddaï",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","Poor",7.3,1
-"TCD","Salamat",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","Poor",19.7,1
-"TCD","Tandjilé",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","Poor",18.4,1
-"TCD","Wadi Fira",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","Poor",19.5,1
-"TCD",NA,NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","Poor",16.4,1
-"DRC","Bandundu",NA,"2007-2008","http://nada.vam.wfp.org/index.php/catalog/15","Poor",6.09887157442235,1
-"DRC","Bas Congo ",NA,"2007-2008","http://nada.vam.wfp.org/index.php/catalog/15","Poor",6.89166863346708,1
-"DRC","Equateur",NA,"2007-2008","http://nada.vam.wfp.org/index.php/catalog/15","Poor",2.10510819961725,1
-"DRC","Province Orientale",NA,"2007-2008","http://nada.vam.wfp.org/index.php/catalog/15","Poor",5.39626724371112,1
-"DRC","Kasai Oriental",NA,"2007-2008","http://nada.vam.wfp.org/index.php/catalog/15","Poor",7.1023324227779,1
-"DRC","Kasai Occidental",NA,"2007-2008","http://nada.vam.wfp.org/index.php/catalog/15","Poor",0.998794558291717,1
-"DRC","Katanga",NA,"2007-2008","http://nada.vam.wfp.org/index.php/catalog/15","Poor",11.3883424785174,1
-"DRC","Maniema",NA,"2007-2008","http://nada.vam.wfp.org/index.php/catalog/15","Poor",4.47677672076105,1
-"DRC","Nord Kivu",NA,"2007-2008","http://nada.vam.wfp.org/index.php/catalog/15","Poor",5.58823529411765,1
-"DRC","Sud Kivu",NA,"2007-2008","http://nada.vam.wfp.org/index.php/catalog/15","Poor",11.6915422885572,1
-"DRC",NA,NA,"2007-2008","http://nada.vam.wfp.org/index.php/catalog/15","Poor",6.38653705445803,1
-"ETH","Tigray",NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","Poor",2.61179642769831,1
-"ETH","Afar",NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","Poor",1.10386532678662,1
-"ETH","Amhara",NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","Poor",1.97813227720541,1
-"ETH","Oromia",NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","Poor",5.68306650903854,1
-"ETH","Somali",NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","Poor",6.57320184617143,1
-"ETH","Benishangul Gamuz",NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","Poor",1.64132926620915,1
-"ETH","SNNPR",NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","Poor",30.5932190319484,1
-"ETH","Gambela",NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","Poor",6.83546141691938,1
-"ETH","Harari",NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","Poor",0.25220863226165,1
-"ETH","Addis Ababa",NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","Poor",7.97989957902827,1
-"ETH","Dire Dawa",NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","Poor",0.370476073080112,1
-"ETH",NA,NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","Poor",9.51963839506532,1
-"GHA","Western Rural",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","Poor",0,1
-"GHA","Central Rural",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","Poor",1.5,1
-"GHA","Greater Accra Rural",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","Poor",0,1
-"GHA","Volta Rural",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","Poor",1.6,1
-"GHA","Eastern Rural ",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","Poor",1.1,1
-"GHA","Ashanti Rural",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","Poor",0.8,1
-"GHA","Brong Ahafo Rural",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","Poor",1.7,1
-"GHA","Northen Rural",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","Poor",3.3,1
-"GHA","Upper East Rural",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","Poor",5.7,1
-"GHA","Upper West Rural",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","Poor",11.3,1
-"GHA","Urban (Accra)",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","Poor",0.8,1
-"GHA","Urban (Other)",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","Poor",1,1
-"GHA",NA,NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","Poor",1.6,1
-"GNQ","Boke",NA,"2009",NA,"Poor",2.4,1
-"GNQ","Faranah",NA,"2009",NA,"Poor",4.5,1
-"GNQ","Kankan",NA,"2009",NA,"Poor",4.1,1
-"GNQ","Kindia",NA,"2009",NA,"Poor",10.2,1
-"GNQ","Labe",NA,"2009",NA,"Poor",10.4,1
-"GNQ","Mamou",NA,"2009",NA,"Poor",2.8,1
-"GNQ","N'Zerekore",NA,"2009",NA,"Poor",16.9,1
-"GNQ",NA,NA,"2009",NA,"Poor",8.4,1
-"HTI","Nord-Ouest",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/18","Poor",11.8,1
-"HTI","Nord",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/18","Poor",12.2,1
-"HTI","Nord-Est",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/18","Poor",8.4,1
-"HTI","Artibonite",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/18","Poor",5.7,1
-"HTI","Centre",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/18","Poor",2.9,1
-"HTI","Ouest",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/18","Poor",3.7,1
-"HTI","Grande-Anse",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/18","Poor",6,1
-"HTI","Nippes",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/18","Poor",2.8,1
-"HTI","Sud",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/18","Poor",3.8,1
-"HTI","Sud-Est",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/18","Poor",4.6,1
-"HTI",NA,NA,"2007","http://nada.vam.wfp.org/index.php/catalog/18","Poor",5.9,1
-"LAO","Phongsaly",NA,"2006",NA,"Poor",4,1
-"LAO","Luangnamtha",NA,"2006",NA,"Poor",2,1
-"LAO","Oudomxay",NA,"2006",NA,"Poor",4,1
-"LAO","Luangprabang",NA,"2006",NA,"Poor",2,1
-"LAO","Huapanh",NA,"2006",NA,"Poor",2,1
-"LAO","Bokeo",NA,"2006",NA,"Poor",11,1
-"LAO","Xayabury",NA,"2006",NA,"Poor",1,1
-"LAO","Xiengkhuang",NA,"2006",NA,"Poor",3,1
-"LAO","Vientiane",NA,"2006",NA,"Poor",0,1
-"LAO","Bolikhamxay",NA,"2006",NA,"Poor",1,1
-"LAO","Khammouane",NA,"2006",NA,"Poor",1,1
-"LAO","Savannakhet",NA,"2006",NA,"Poor",1,1
-"LAO","Saravane",NA,"2006",NA,"Poor",4,1
-"LAO","Sekong",NA,"2006",NA,"Poor",10,1
-"LAO","Champassak",NA,"2006",NA,"Poor",0,1
-"LAO","Attapeu",NA,"2006",NA,"Poor",1,1
-"LAO",NA,NA,"2006",NA,"Poor",2,1
-"MDG",NA,NA,"2010","http://nada.vam.wfp.org/index.php/catalog/4","Poor",11.9,1
-"MOZ","Cabo Delgado",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/26","Poor",15,1
-"MOZ","Gaza",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/26","Poor",18,1
-"MOZ","Inhambane",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/26","Poor",9,1
-"MOZ","Manica",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/26","Poor",15,1
-"MOZ","Maputo",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/26","Poor",6,1
-"MOZ","Nampula",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/26","Poor",3,1
-"MOZ","Niassa",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/26","Poor",4,1
-"MOZ","Sofala",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/26","Poor",3,1
-"MOZ","Tete",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/26","Poor",11,1
-"MOZ","Zambezia",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/26","Poor",12,1
-"MOZ",NA,NA,"2009","http://nada.vam.wfp.org/index.php/catalog/26","Poor",9.1,1
-"RWA","Nyanza",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","Poor",2.3,1
-"RWA","Gisagara",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","Poor",1.5,1
-"RWA","Nyaruguru-Nyamagabe",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","Poor",8.4,1
-"RWA","Huye",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","Poor",3.3,1
-"RWA","Ruhango-Muhanga-Kamonyi",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","Poor",5.5,1
-"RWA","Karongi-Rutsiro",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","Poor",5.6,1
-"RWA","Rubavu",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","Poor",2.6,1
-"RWA","Nyabihu",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","Poor",9.5,1
-"RWA","Ngororero",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","Poor",9.5,1
-"RWA","Rusizi-Nyamasheke",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","Poor",4.5,1
-"RWA","Gakenke",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","Poor",3.3,1
-"RWA","Musanze-Burera",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","Poor",3.7,1
-"RWA","Rurindo-Gicumbi",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","Poor",1.2,1
-"RWA","Nyagatare-Gatsibo-Kayonza",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","Poor",0.3,1
-"RWA","Kirehe-Ngoma-Rwamagana",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","Poor",1.1,1
-"RWA","Bugesera",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","Poor",5,1
-"RWA",NA,NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","Poor",4.2,1
-"RWA","Kigali",NA,"2012","http://nada.vam.wfp.org/index.php/catalog/47","Poor",3,1
-"RWA","South",NA,"2012","http://nada.vam.wfp.org/index.php/catalog/47","Poor",3,1
-"RWA","West",NA,"2012","http://nada.vam.wfp.org/index.php/catalog/47","Poor",8,1
-"RWA","North ",NA,"2012","http://nada.vam.wfp.org/index.php/catalog/47","Poor",3,1
-"RWA","East",NA,"2012","http://nada.vam.wfp.org/index.php/catalog/47","Poor",1,1
-"RWA","Kigali","Nyarugenge","2012","http://nada.vam.wfp.org/index.php/catalog/47","Poor",0,1
-"RWA","Kigali","Gasabo","2012","http://nada.vam.wfp.org/index.php/catalog/47","Poor",7,1
-"RWA","Kigali","Kicukiro","2012","http://nada.vam.wfp.org/index.php/catalog/47","Poor",1,1
-"RWA","South","Nyanza","2012","http://nada.vam.wfp.org/index.php/catalog/47","Poor",3,1
-"RWA","South","Gisagara","2012","http://nada.vam.wfp.org/index.php/catalog/47","Poor",1,1
-"RWA","South","Nyaruguru","2012","http://nada.vam.wfp.org/index.php/catalog/47","Poor",7,1
-"RWA","South","Huye","2012","http://nada.vam.wfp.org/index.php/catalog/47","Poor",0,1
-"RWA","South","Nyamagabe","2012","http://nada.vam.wfp.org/index.php/catalog/47","Poor",6,1
-"RWA","South","Ruhango","2012","http://nada.vam.wfp.org/index.php/catalog/47","Poor",5,1
-"RWA","South","Muhanga","2012","http://nada.vam.wfp.org/index.php/catalog/47","Poor",3,1
-"RWA","South","Kamonyi","2012","http://nada.vam.wfp.org/index.php/catalog/47","Poor",1,1
-"RWA","West","Karongi","2012","http://nada.vam.wfp.org/index.php/catalog/47","Poor",12,1
-"RWA","West","Rutsiro","2012","http://nada.vam.wfp.org/index.php/catalog/47","Poor",14,1
-"RWA","West","Rubavu","2012","http://nada.vam.wfp.org/index.php/catalog/47","Poor",6,1
-"RWA","West","Nyabihu","2012","http://nada.vam.wfp.org/index.php/catalog/47","Poor",5,1
-"RWA","West","Ngororero","2012","http://nada.vam.wfp.org/index.php/catalog/47","Poor",9,1
-"RWA","West","Rusizi","2012","http://nada.vam.wfp.org/index.php/catalog/47","Poor",5,1
-"RWA","West","Nyamasheke","2012","http://nada.vam.wfp.org/index.php/catalog/47","Poor",7,1
-"RWA","North","Rulindo","2012","http://nada.vam.wfp.org/index.php/catalog/47","Poor",2,1
-"RWA","North","Gakenke","2012","http://nada.vam.wfp.org/index.php/catalog/47","Poor",3,1
-"RWA","North","Musanze","2012","http://nada.vam.wfp.org/index.php/catalog/47","Poor",2,1
-"RWA","North","Burera","2012","http://nada.vam.wfp.org/index.php/catalog/47","Poor",7,1
-"RWA","North","Gicumbi","2012","http://nada.vam.wfp.org/index.php/catalog/47","Poor",1,1
-"RWA","East","Rwamagana","2012","http://nada.vam.wfp.org/index.php/catalog/47","Poor",1,1
-"RWA","East","Nyagatare","2012","http://nada.vam.wfp.org/index.php/catalog/47","Poor",0,1
-"RWA","East","Gatsibo","2012","http://nada.vam.wfp.org/index.php/catalog/47","Poor",3,1
-"RWA","East","Kayonza","2012","http://nada.vam.wfp.org/index.php/catalog/47","Poor",1,1
-"RWA","East","Kirehe","2012","http://nada.vam.wfp.org/index.php/catalog/47","Poor",1,1
-"RWA","East","Ngoma","2012","http://nada.vam.wfp.org/index.php/catalog/47","Poor",2,1
-"RWA","East","Bugesera","2012","http://nada.vam.wfp.org/index.php/catalog/47","Poor",2,1
-"RWA",NA,NA,"2012","http://nada.vam.wfp.org/index.php/catalog/47","Poor",4,1
-"STP","Me-Zochi",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/23","Poor",18.5,1
-"STP","Caue",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/23","Poor",18.5,1
-"STP","Agua grande",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/23","Poor",15.2,1
-"STP","R.A. Principe",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/23","Poor",10.3,1
-"STP","Lemba",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/23","Poor",9.3,1
-"STP","Cantagalo",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/23","Poor",3.6,1
-"STP","Lobata",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/23","Poor",3.6,1
-"STP",NA,NA,"2007","http://nada.vam.wfp.org/index.php/catalog/23","Poor",10.2,1
-"SLE","Kailahun",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","Poor",3.7,1
-"SLE","Kenema",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","Poor",1.9,1
-"SLE","Kono",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","Poor",7.9,1
-"SLE","Bombali",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","Poor",2.1,1
-"SLE","Kambia",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","Poor",4.3,1
-"SLE","Koinadugu",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","Poor",13.4,1
-"SLE","Port Loko",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","Poor",5,1
-"SLE","Tonkolili",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","Poor",22.5,1
-"SLE","Bo",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","Poor",0.9,1
-"SLE","Bonthe",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","Poor",1.1,1
-"SLE","Moyamba",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","Poor",17.9,1
-"SLE","Pujehun",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","Poor",6.8,1
-"SLE","Western Area Rural",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","Poor",1.3,1
-"SLE","Western Area Urban",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","Poor",6.3,1
-"SLE","Western Area Slum",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","Poor",3,1
-"SLE",NA,NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","Poor",6.5,1
-"SLE","Bo",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","Poor",2.5,1
-"SLE","Bomabali",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","Poor",3.3,1
-"SLE","Bonthe",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","Poor",8.6,1
-"SLE","Kailahun",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","Poor",0.7,1
-"SLE","Kambia",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","Poor",0.7,1
-"SLE","Kenema",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","Poor",1.6,1
-"SLE","Koinadugu",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","Poor",1.4,1
-"SLE","Kono",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","Poor",1.1,1
-"SLE","Moyamba",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","Poor",0.7,1
-"SLE","Port Loko",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","Poor",2.4,1
-"SLE","Pujehun",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","Poor",1.6,1
-"SLE","Tonkolili",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","Poor",2.5,1
-"SLE","Western Area Rural",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","Poor",4.5,1
-"SLE",NA,NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","Poor",2.4,1
-"TZA","Arusha",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","Poor",6.8,1
-"TZA","Dar es Salaam",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","Poor",0.5,1
-"TZA","Dodoma",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","Poor",3.3,1
-"TZA","Iringa",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","Poor",1.4,1
-"TZA","Kagera",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","Poor",4.4,1
-"TZA","Kigoma",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","Poor",0.5,1
-"TZA","Kilimanjaro",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","Poor",2.7,1
-"TZA","Lindi",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","Poor",5.3,1
-"TZA","Manyara",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","Poor",17.6,1
-"TZA","Mara",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","Poor",1,1
-"TZA","Mbeya",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","Poor",0,1
-"TZA","Morogoro",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","Poor",4.8,1
-"TZA","Mtwara",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","Poor",20,1
-"TZA","Mwanza",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","Poor",3.9,1
-"TZA","Pwani",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","Poor",1.4,1
-"TZA","Rukwa",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","Poor",1.4,1
-"TZA","Ruvuma",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","Poor",1.9,1
-"TZA","Shinyanga",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","Poor",3.8,1
-"TZA","Singida",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","Poor",5.4,1
-"TZA","Tabora",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","Poor",2.4,1
-"TZA","Tanga",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","Poor",0.9,1
-"TZA",NA,NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","Poor",4.1,1
-"TZA","Singida",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Poor",61.9,1
-"TZA","Tabora",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Poor",62.7,1
-"TZA","Dodoma",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Poor",47.6,1
-"TZA","Kagera",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Poor",15.9,1
-"TZA","Manyara",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Poor",21.4,1
-"TZA","Mwanza",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Poor",26.2,1
-"TZA","Mtwara",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Poor",19.8,1
-"TZA","Kigoma",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Poor",11.1,1
-"TZA","Ruvuma",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Poor",18.3,1
-"TZA","Iringa",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Poor",29.4,1
-"TZA","Morogoro",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Poor",20.6,1
-"TZA","Lindi",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Poor",7.1,1
-"TZA","Arusha",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Poor",13.5,1
-"TZA","Mara",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Poor",15.9,1
-"TZA","Rukwa",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Poor",8.8,1
-"TZA","Tanga",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Poor",4,1
-"TZA","Zanzibar/Pemba",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Poor",5.6,1
-"TZA","Dar es Salaam",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Poor",8.7,1
-"TZA","Shinyanga",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Poor",4.8,1
-"TZA","Kilimanjaro",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Poor",7.9,1
-"TZA","Pwani",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Poor",1.6,1
-"TZA","Mbeya",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Poor",1.6,1
-"TZA",NA,NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Poor",17.7,1
-"YEM","Abyan",NA,"2011","not yet posted","Poor",19.9,1
-"YEM","Ad Daleh",NA,"2011","not yet posted","Poor",29.4,1
-"YEM","Aden",NA,"2011","not yet posted","Poor",5.7,1
-"YEM","Al Bayda",NA,"2011","not yet posted","Poor",61,1
-"YEM","Hudeida",NA,"2011","not yet posted","Poor",15.9,1
-"YEM","Al Mahra",NA,"2011","not yet posted","Poor",1.7,1
-"YEM","Al Mahweet",NA,"2011","not yet posted","Poor",12.8,1
-"YEM","Amran",NA,"2011","not yet posted","Poor",25.9,1
-"YEM","Dhamar",NA,"2011","not yet posted","Poor",24.1,1
-"YEM","Hadramout",NA,"2011","not yet posted","Poor",2.9,1
-"YEM","Hajjah",NA,"2011","not yet posted","Poor",30.7,1
-"YEM","Ibb",NA,"2011","not yet posted","Poor",27.1,1
-"YEM","Lahej",NA,"2011","not yet posted","Poor",23.5,1
-"YEM","Mareb",NA,"2011","not yet posted","Poor",52.7,1
-"YEM","Rayma",NA,"2011","not yet posted","Poor",31.1,1
-"YEM","Sana'a",NA,"2011","not yet posted","Poor",45.4,1
-"YEM","Sana'a City",NA,"2011","not yet posted","Poor",7.6,1
-"YEM","Shabwa",NA,"2011","not yet posted","Poor",10.3,1
-"YEM","Taiz",NA,"2011","not yet posted","Poor",22.4,1
-"YEM",NA,NA,"2011","not yet posted","Poor",22.2,1
-"YEM","Rayma",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","Poor",24.3,1
-"YEM","Hajjah",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","Poor",17.1,1
-"YEM","Ibb",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","Poor",20.1,1
-"YEM","Ad Daleh",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","Poor",19.7,1
-"YEM","Amran",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","Poor",21.1,1
-"YEM","Al Mahweet",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","Poor",16.4,1
-"YEM","Al Bayda",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","Poor",12.7,1
-"YEM","Taiz",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","Poor",15.9,1
-"YEM","Lahej",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","Poor",12.9,1
-"YEM","Mareb",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","Poor",8.4,1
-"YEM","Abyan",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","Poor",8.4,1
-"YEM","Hudeida",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","Poor",10.1,1
-"YEM","Shabwa",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","Poor",9.8,1
-"YEM","Dhamar",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","Poor",6.8,1
-"YEM","Sana'a",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","Poor",3.1,1
-"YEM","Aden",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","Poor",1.5,1
-"YEM","Al Mahra",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","Poor",4.8,1
-"YEM","Hadramout",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","Poor",2.2,1
-"YEM","Sana'a City",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","Poor",1.4,1
-"YEM",NA,NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","Poor",11.8,1
-"BEN","Alibori",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","Borderline",1.56704296880593,1
-"BEN","Atacora",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","Borderline",22.6522800367126,1
-"BEN","Atlantique",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","Borderline",2.41344700589392,1
-"BEN","Borgou",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","Borderline",10.8109264802214,1
-"BEN","Collines",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","Borderline",8.90573000303997,1
-"BEN","Couffo",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","Borderline",20.8744009201396,1
-"BEN","Donga",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","Borderline",16.2377487385736,1
-"BEN","Littoral",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","Borderline",1.84069977593487,1
-"BEN","Mono",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","Borderline",29.8735255752362,1
-"BEN","Oueme",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","Borderline",7.58773799417677,1
-"BEN","Plateau",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","Borderline",2.13822364832397,1
-"BEN","Zhou",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","Borderline",12.1771696437912,1
-"BEN",NA,NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","Borderline",10.4,1
-"BEN","Alibori",NA,"2013","Not yet posted","Borderline",15,1
-"BEN","Atacora",NA,"2013","Not yet posted","Borderline",35,1
-"BEN","Atlantique",NA,"2013","Not yet posted","Borderline",16,1
-"BEN","Borgou",NA,"2013","Not yet posted","Borderline",27,1
-"BEN","Collines",NA,"2013","Not yet posted","Borderline",26,1
-"BEN","Couffo",NA,"2013","Not yet posted","Borderline",27,1
-"BEN","Donga",NA,"2013","Not yet posted","Borderline",17,1
-"BEN","Littoral",NA,"2013","Not yet posted","Borderline",4,1
-"BEN","Mono",NA,"2013","Not yet posted","Borderline",34,1
-"BEN","Oueme",NA,"2013","Not yet posted","Borderline",9,1
-"BEN","Plateau",NA,"2013","Not yet posted","Borderline",7,1
-"BEN","Zhou",NA,"2013","Not yet posted","Borderline",20,1
-"BEN","Cotonou ",NA,"2013","Not yet posted","Borderline",4,1
-"BEN",NA,NA,"2013","Not yet posted","Borderline",18,1
-"BDI","Muyinga",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","Borderline",22.6,1
-"BDI","Kirundo",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","Borderline",22.8,1
-"BDI","Cibitoke",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","Borderline",28.6,1
-"BDI","Ngozi",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","Borderline",33.1,1
-"BDI","Kayanza",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","Borderline",29.7,1
-"BDI","Cankuzo",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","Borderline",25.4,1
-"BDI","Karuzi",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","Borderline",30.4,1
-"BDI","Bubanza",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","Borderline",26.5,1
-"BDI","Gitega",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","Borderline",18.4,1
-"BDI","Muramvya",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","Borderline",16,1
-"BDI","Ruyigi",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","Borderline",20.8,1
-"BDI","Bujumbura Rural",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","Borderline",24.1,1
-"BDI","Mwaro",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","Borderline",25.8,1
-"BDI","Bururi",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","Borderline",8.8,1
-"BDI","Rutana",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","Borderline",16.2,1
-"BDI","Makamba",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","Borderline",7.1,1
-"BDI",NA,NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","Borderline",22.9,1
-"CMR","Extreme-Nord",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/35","Borderline",7,1
-"CMR","Nord",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/35","Borderline",5,1
-"CMR","Adamaoua",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/35","Borderline",14,1
-"CMR","Nord-Ouest",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/35","Borderline",22,1
-"CMR","Sud-Ouest",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/35","Borderline",12,1
-"CMR","Ouest",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/35","Borderline",18,1
-"CMR","Centre",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/35","Borderline",35,1
-"CMR","Est",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/35","Borderline",28,1
-"CMR","Littoral",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/35","Borderline",18,1
-"CMR","Sud",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/35","Borderline",17,1
-"CMR",NA,NA,"2007","http://nada.vam.wfp.org/index.php/catalog/35","Borderline",17,1
-"TCD","Batha",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","Borderline",25.2,1
-"TCD","Chari-Baguirmi / Hadjer-Lamis",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","Borderline",22.8,1
-"TCD","Guéra",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","Borderline",22.7,1
-"TCD","Kanem",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","Borderline",14.5,1
-"TCD","Lac",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","Borderline",12.6,1
-"TCD","Logone Occidental",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","Borderline",25.9,1
-"TCD","Logone Oriental",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","Borderline",27.3,1
-"TCD","Moyen-Chari and Mandoul",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","Borderline",31.6,1
-"TCD","Mayo-Kebbi Est and Ouest",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","Borderline",30,1
-"TCD","Ouaddaï",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","Borderline",44.9,1
-"TCD","Salamat",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","Borderline",27.9,1
-"TCD","Tandjilé",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","Borderline",24.9,1
-"TCD","Wadi Fira",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","Borderline",25.5,1
-"TCD",NA,NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","Borderline",25,1
-"DRC","Bandundu",NA,"2007-2008","http://nada.vam.wfp.org/index.php/catalog/15","Borderline",25.5910800644815,1
-"DRC","Bas Congo ",NA,"2007-2008","http://nada.vam.wfp.org/index.php/catalog/15","Borderline",30.2808590984187,1
-"DRC","Equateur",NA,"2007-2008","http://nada.vam.wfp.org/index.php/catalog/15","Borderline",25.290740468129,1
-"DRC","Province Orientale",NA,"2007-2008","http://nada.vam.wfp.org/index.php/catalog/15","Borderline",31.6878550175818,1
-"DRC","Kasai Oriental",NA,"2007-2008","http://nada.vam.wfp.org/index.php/catalog/15","Borderline",34.1878545913007,1
-"DRC","Kasai Occidental",NA,"2007-2008","http://nada.vam.wfp.org/index.php/catalog/15","Borderline",17.2894782159463,1
-"DRC","Katanga",NA,"2007-2008","http://nada.vam.wfp.org/index.php/catalog/15","Borderline",35.2003312972357,1
-"DRC","Maniema",NA,"2007-2008","http://nada.vam.wfp.org/index.php/catalog/15","Borderline",51.8186905428092,1
-"DRC","Nord Kivu",NA,"2007-2008","http://nada.vam.wfp.org/index.php/catalog/15","Borderline",30.5882352941176,1
-"DRC","Sud Kivu",NA,"2007-2008","http://nada.vam.wfp.org/index.php/catalog/15","Borderline",33.1071913161465,1
-"DRC",NA,NA,"2007-2008","http://nada.vam.wfp.org/index.php/catalog/15","Borderline",30.0163757360371,1
-"ETH","Tigray",NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","Borderline",12.8215543398298,1
-"ETH","Afar",NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","Borderline",4.60904221102828,1
-"ETH","Amhara",NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","Borderline",9.05791831845075,1
-"ETH","Oromia",NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","Borderline",14.1104765864506,1
-"ETH","Somali",NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","Borderline",9.81500731015099,1
-"ETH","Benishangul Gamuz",NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","Borderline",15.1324971284686,1
-"ETH","SNNPR",NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","Borderline",32.1770841820571,1
-"ETH","Gambela",NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","Borderline",21.5596931004542,1
-"ETH","Harari",NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","Borderline",9.17952266965351,1
-"ETH","Addis Ababa",NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","Borderline",22.5941512392985,1
-"ETH","Dire Dawa",NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","Borderline",10.7536719894838,1
-"ETH",NA,NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","Borderline",16.5710969789488,1
-"GHA","Western Rural",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","Borderline",0.8,1
-"GHA","Central Rural",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","Borderline",2,1
-"GHA","Greater Accra Rural",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","Borderline",1.4,1
-"GHA","Volta Rural",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","Borderline",1.6,1
-"GHA","Eastern Rural ",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","Borderline",2.8,1
-"GHA","Ashanti Rural",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","Borderline",6.4,1
-"GHA","Brong Ahafo Rural",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","Borderline",1.7,1
-"GHA","Northen Rural",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","Borderline",6.3,1
-"GHA","Upper East Rural",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","Borderline",9.5,1
-"GHA","Upper West Rural",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","Borderline",22.7,1
-"GHA","Urban (Accra)",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","Borderline",1.2,1
-"GHA","Urban (Other)",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","Borderline",3.3,1
-"GHA",NA,NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","Borderline",3.8,1
-"GNQ","Boke",NA,"2009",NA,"Borderline",9.1,1
-"GNQ","Faranah",NA,"2009",NA,"Borderline",20.2,1
-"GNQ","Kankan",NA,"2009",NA,"Borderline",19.5,1
-"GNQ","Kindia",NA,"2009",NA,"Borderline",17.1,1
-"GNQ","Labe",NA,"2009",NA,"Borderline",27.6,1
-"GNQ","Mamou",NA,"2009",NA,"Borderline",28.5,1
-"GNQ","N'Zerekore",NA,"2009",NA,"Borderline",35.8,1
-"GNQ",NA,NA,"2009",NA,"Borderline",23.7,1
-"HTI","Nord-Ouest",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/18","Borderline",30.5,1
-"HTI","Nord",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/18","Borderline",25.7,1
-"HTI","Nord-Est",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/18","Borderline",27,1
-"HTI","Artibonite",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/18","Borderline",20,1
-"HTI","Centre",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/18","Borderline",15.4,1
-"HTI","Ouest",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/18","Borderline",16.2,1
-"HTI","Grande-Anse",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/18","Borderline",25.4,1
-"HTI","Nippes",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/18","Borderline",7.9,1
-"HTI","Sud",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/18","Borderline",12,1
-"HTI","Sud-Est",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/18","Borderline",14.7,1
-"HTI",NA,NA,"2007","http://nada.vam.wfp.org/index.php/catalog/18","Borderline",19.1,1
-"LAO","Phongsaly",NA,"2006",NA,"Borderline",14,1
-"LAO","Luangnamtha",NA,"2006",NA,"Borderline",15,1
-"LAO","Oudomxay",NA,"2006",NA,"Borderline",15,1
-"LAO","Luangprabang",NA,"2006",NA,"Borderline",14,1
-"LAO","Huapanh",NA,"2006",NA,"Borderline",19,1
-"LAO","Bokeo",NA,"2006",NA,"Borderline",30,1
-"LAO","Xayabury",NA,"2006",NA,"Borderline",9,1
-"LAO","Xiengkhuang",NA,"2006",NA,"Borderline",22,1
-"LAO","Vientiane",NA,"2006",NA,"Borderline",4,1
-"LAO","Bolikhamxay",NA,"2006",NA,"Borderline",3,1
-"LAO","Khammouane",NA,"2006",NA,"Borderline",9,1
-"LAO","Savannakhet",NA,"2006",NA,"Borderline",3,1
-"LAO","Saravane",NA,"2006",NA,"Borderline",26,1
-"LAO","Sekong",NA,"2006",NA,"Borderline",14,1
-"LAO","Champassak",NA,"2006",NA,"Borderline",1,1
-"LAO","Attapeu",NA,"2006",NA,"Borderline",8,1
-"LAO",NA,NA,"2006",NA,"Borderline",11,1
-"MDG",NA,NA,"2010","http://nada.vam.wfp.org/index.php/catalog/4","Borderline",41.2,1
-"MOZ","Cabo Delgado",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/26","Borderline",17,1
-"MOZ","Gaza",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/26","Borderline",35,1
-"MOZ","Inhambane",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/26","Borderline",34,1
-"MOZ","Manica",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/26","Borderline",28,1
-"MOZ","Maputo",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/26","Borderline",12,1
-"MOZ","Nampula",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/26","Borderline",12,1
-"MOZ","Niassa",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/26","Borderline",28,1
-"MOZ","Sofala",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/26","Borderline",20,1
-"MOZ","Tete",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/26","Borderline",23,1
-"MOZ","Zambezia",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/26","Borderline",14,1
-"MOZ",NA,NA,"2009","http://nada.vam.wfp.org/index.php/catalog/26","Borderline",18.3,1
-"RWA","Nyanza",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","Borderline",9.6,1
-"RWA","Gisagara",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","Borderline",12.6,1
-"RWA","Nyaruguru-Nyamagabe",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","Borderline",22.9,1
-"RWA","Huye",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","Borderline",15.5,1
-"RWA","Ruhango-Muhanga-Kamonyi",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","Borderline",17.1,1
-"RWA","Karongi-Rutsiro",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","Borderline",22.9,1
-"RWA","Rubavu",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","Borderline",14,1
-"RWA","Nyabihu",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","Borderline",28.5,1
-"RWA","Ngororero",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","Borderline",25.3,1
-"RWA","Rusizi-Nyamasheke",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","Borderline",28.1,1
-"RWA","Gakenke",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","Borderline",12.4,1
-"RWA","Musanze-Burera",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","Borderline",17.7,1
-"RWA","Rurindo-Gicumbi",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","Borderline",12.1,1
-"RWA","Nyagatare-Gatsibo-Kayonza",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","Borderline",9.6,1
-"RWA","Kirehe-Ngoma-Rwamagana",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","Borderline",11.9,1
-"RWA","Bugesera",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","Borderline",17.9,1
-"RWA",NA,NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","Borderline",17.3,1
-"RWA","Kigali",NA,"2012","http://nada.vam.wfp.org/index.php/catalog/47","Borderline",3,1
-"RWA","South",NA,"2012","http://nada.vam.wfp.org/index.php/catalog/47","Borderline",18,1
-"RWA","West",NA,"2012","http://nada.vam.wfp.org/index.php/catalog/47","Borderline",29,1
-"RWA","North ",NA,"2012","http://nada.vam.wfp.org/index.php/catalog/47","Borderline",16,1
-"RWA","East",NA,"2012","http://nada.vam.wfp.org/index.php/catalog/47","Borderline",13,1
-"RWA","Kigali","Nyarugenge","2012","http://nada.vam.wfp.org/index.php/catalog/47","Borderline",2,1
-"RWA","Kigali","Gasabo","2012","http://nada.vam.wfp.org/index.php/catalog/47","Borderline",4,1
-"RWA","Kigali","Kicukiro","2012","http://nada.vam.wfp.org/index.php/catalog/47","Borderline",4,1
-"RWA","South","Nyanza","2012","http://nada.vam.wfp.org/index.php/catalog/47","Borderline",21,1
-"RWA","South","Gisagara","2012","http://nada.vam.wfp.org/index.php/catalog/47","Borderline",16,1
-"RWA","South","Nyaruguru","2012","http://nada.vam.wfp.org/index.php/catalog/47","Borderline",15,1
-"RWA","South","Huye","2012","http://nada.vam.wfp.org/index.php/catalog/47","Borderline",8,1
-"RWA","South","Nyamagabe","2012","http://nada.vam.wfp.org/index.php/catalog/47","Borderline",26,1
-"RWA","South","Ruhango","2012","http://nada.vam.wfp.org/index.php/catalog/47","Borderline",18,1
-"RWA","South","Muhanga","2012","http://nada.vam.wfp.org/index.php/catalog/47","Borderline",23,1
-"RWA","South","Kamonyi","2012","http://nada.vam.wfp.org/index.php/catalog/47","Borderline",13,1
-"RWA","West","Karongi","2012","http://nada.vam.wfp.org/index.php/catalog/47","Borderline",25,1
-"RWA","West","Rutsiro","2012","http://nada.vam.wfp.org/index.php/catalog/47","Borderline",39,1
-"RWA","West","Rubavu","2012","http://nada.vam.wfp.org/index.php/catalog/47","Borderline",22,1
-"RWA","West","Nyabihu","2012","http://nada.vam.wfp.org/index.php/catalog/47","Borderline",13,1
-"RWA","West","Ngororero","2012","http://nada.vam.wfp.org/index.php/catalog/47","Borderline",35,1
-"RWA","West","Rusizi","2012","http://nada.vam.wfp.org/index.php/catalog/47","Borderline",41,1
-"RWA","West","Nyamasheke","2012","http://nada.vam.wfp.org/index.php/catalog/47","Borderline",30,1
-"RWA","North","Rulindo","2012","http://nada.vam.wfp.org/index.php/catalog/47","Borderline",23,1
-"RWA","North","Gakenke","2012","http://nada.vam.wfp.org/index.php/catalog/47","Borderline",22,1
-"RWA","North","Musanze","2012","http://nada.vam.wfp.org/index.php/catalog/47","Borderline",9,1
-"RWA","North","Burera","2012","http://nada.vam.wfp.org/index.php/catalog/47","Borderline",19,1
-"RWA","North","Gicumbi","2012","http://nada.vam.wfp.org/index.php/catalog/47","Borderline",12,1
-"RWA","East","Rwamagana","2012","http://nada.vam.wfp.org/index.php/catalog/47","Borderline",7,1
-"RWA","East","Nyagatare","2012","http://nada.vam.wfp.org/index.php/catalog/47","Borderline",2,1
-"RWA","East","Gatsibo","2012","http://nada.vam.wfp.org/index.php/catalog/47","Borderline",24,1
-"RWA","East","Kayonza","2012","http://nada.vam.wfp.org/index.php/catalog/47","Borderline",9,1
-"RWA","East","Kirehe","2012","http://nada.vam.wfp.org/index.php/catalog/47","Borderline",11,1
-"RWA","East","Ngoma","2012","http://nada.vam.wfp.org/index.php/catalog/47","Borderline",10,1
-"RWA","East","Bugesera","2012","http://nada.vam.wfp.org/index.php/catalog/47","Borderline",23,1
-"RWA",NA,NA,"2012","http://nada.vam.wfp.org/index.php/catalog/47","Borderline",17,1
-"STP","Me-Zochi",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/23","Borderline",13,1
-"STP","Caue",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/23","Borderline",13,1
-"STP","Agua grande",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/23","Borderline",12.4,1
-"STP","R.A. Principe",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/23","Borderline",15.4,1
-"STP","Lemba",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/23","Borderline",12,1
-"STP","Cantagalo",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/23","Borderline",11.8,1
-"STP","Lobata",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/23","Borderline",10.9,1
-"STP",NA,NA,"2007","http://nada.vam.wfp.org/index.php/catalog/23","Borderline",12.6,1
-"SLE","Kailahun",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","Borderline",17.3,1
-"SLE","Kenema",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","Borderline",31.9,1
-"SLE","Kono",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","Borderline",39.7,1
-"SLE","Bombali",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","Borderline",23.4,1
-"SLE","Kambia",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","Borderline",66.7,1
-"SLE","Koinadugu",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","Borderline",52.3,1
-"SLE","Port Loko",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","Borderline",65.6,1
-"SLE","Tonkolili",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","Borderline",51.6,1
-"SLE","Bo",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","Borderline",31.1,1
-"SLE","Bonthe",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","Borderline",21.6,1
-"SLE","Moyamba",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","Borderline",58,1
-"SLE","Pujehun",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","Borderline",73.1,1
-"SLE","Western Area Rural",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","Borderline",20.7,1
-"SLE","Western Area Urban",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","Borderline",16.7,1
-"SLE","Western Area Slum",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","Borderline",34.3,1
-"SLE",NA,NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","Borderline",38.5,1
-"SLE","Bo",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","Borderline",23.7,1
-"SLE","Bomabali",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","Borderline",26,1
-"SLE","Bonthe",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","Borderline",47.7,1
-"SLE","Kailahun",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","Borderline",23.9,1
-"SLE","Kambia",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","Borderline",21.5,1
-"SLE","Kenema",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","Borderline",21.8,1
-"SLE","Koinadugu",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","Borderline",11.5,1
-"SLE","Kono",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","Borderline",14.9,1
-"SLE","Moyamba",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","Borderline",30,1
-"SLE","Port Loko",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","Borderline",35.6,1
-"SLE","Pujehun",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","Borderline",30,1
-"SLE","Tonkolili",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","Borderline",23.9,1
-"SLE","Western Area Rural",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","Borderline",37.6,1
-"SLE",NA,NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","Borderline",26.8,1
-"TZA","Arusha",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","Borderline",25,1
-"TZA","Dar es Salaam",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","Borderline",5.3,1
-"TZA","Dodoma",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","Borderline",37.8,1
-"TZA","Iringa",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","Borderline",13.1,1
-"TZA","Kagera",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","Borderline",10.6,1
-"TZA","Kigoma",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","Borderline",10.6,1
-"TZA","Kilimanjaro",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","Borderline",11.6,1
-"TZA","Lindi",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","Borderline",25.7,1
-"TZA","Manyara",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","Borderline",42.9,1
-"TZA","Mara",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","Borderline",18.5,1
-"TZA","Mbeya",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","Borderline",5.6,1
-"TZA","Morogoro",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","Borderline",33.8,1
-"TZA","Mtwara",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","Borderline",28.5,1
-"TZA","Mwanza",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","Borderline",16.8,1
-"TZA","Pwani",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","Borderline",21.7,1
-"TZA","Rukwa",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","Borderline",9.6,1
-"TZA","Ruvuma",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","Borderline",25.1,1
-"TZA","Shinyanga",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","Borderline",13.4,1
-"TZA","Singida",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","Borderline",25.5,1
-"TZA","Tabora",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","Borderline",11,1
-"TZA","Tanga",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","Borderline",8.9,1
-"TZA",NA,NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","Borderline",18.9,1
-"TZA","Singida",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Borderline",27,1
-"TZA","Tabora",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Borderline",26.2,1
-"TZA","Dodoma",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Borderline",26.2,1
-"TZA","Kagera",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Borderline",29.4,1
-"TZA","Manyara",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Borderline",27,1
-"TZA","Mwanza",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Borderline",35.7,1
-"TZA","Mtwara",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Borderline",41.3,1
-"TZA","Kigoma",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Borderline",32.5,1
-"TZA","Ruvuma",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Borderline",21.4,1
-"TZA","Iringa",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Borderline",37.3,1
-"TZA","Morogoro",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Borderline",17.5,1
-"TZA","Lindi",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Borderline",31.7,1
-"TZA","Arusha",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Borderline",27,1
-"TZA","Mara",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Borderline",31,1
-"TZA","Rukwa",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Borderline",24.8,1
-"TZA","Tanga",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Borderline",20.6,1
-"TZA","Zanzibar/Pemba",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Borderline",23,1
-"TZA","Dar es Salaam",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Borderline",38.9,1
-"TZA","Shinyanga",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Borderline",23.8,1
-"TZA","Kilimanjaro",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Borderline",12.7,1
-"TZA","Pwani",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Borderline",27,1
-"TZA","Mbeya",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Borderline",11.1,1
-"TZA",NA,NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Borderline",27,1
-"YEM","Abyan",NA,"2011","not yet posted","Borderline",29.7,1
-"YEM","Ad Daleh",NA,"2011","not yet posted","Borderline",27.2,1
-"YEM","Aden",NA,"2011","not yet posted","Borderline",17.7,1
-"YEM","Al Bayda",NA,"2011","not yet posted","Borderline",15.5,1
-"YEM","Hudeida",NA,"2011","not yet posted","Borderline",17.4,1
-"YEM","Al Mahra",NA,"2011","not yet posted","Borderline",12.1,1
-"YEM","Al Mahweet",NA,"2011","not yet posted","Borderline",17.2,1
-"YEM","Amran",NA,"2011","not yet posted","Borderline",20.1,1
-"YEM","Dhamar",NA,"2011","not yet posted","Borderline",22,1
-"YEM","Hadramout",NA,"2011","not yet posted","Borderline",15.2,1
-"YEM","Hajjah",NA,"2011","not yet posted","Borderline",22.6,1
-"YEM","Ibb",NA,"2011","not yet posted","Borderline",27.4,1
-"YEM","Lahej",NA,"2011","not yet posted","Borderline",34.5,1
-"YEM","Mareb",NA,"2011","not yet posted","Borderline",23.1,1
-"YEM","Rayma",NA,"2011","not yet posted","Borderline",19.5,1
-"YEM","Sana'a",NA,"2011","not yet posted","Borderline",23.7,1
-"YEM","Sana'a City",NA,"2011","not yet posted","Borderline",19.9,1
-"YEM","Shabwa",NA,"2011","not yet posted","Borderline",27.5,1
-"YEM","Taiz",NA,"2011","not yet posted","Borderline",25.4,1
-"YEM",NA,NA,"2011","not yet posted","Borderline",22.3,1
-"YEM","Rayma",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","Borderline",28.4,1
-"YEM","Hajjah",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","Borderline",29.1,1
-"YEM","Ibb",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","Borderline",24,1
-"YEM","Ad Daleh",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","Borderline",24.3,1
-"YEM","Amran",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","Borderline",21.7,1
-"YEM","Al Mahweet",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","Borderline",24.2,1
-"YEM","Al Bayda",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","Borderline",25.6,1
-"YEM","Taiz",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","Borderline",20.5,1
-"YEM","Lahej",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","Borderline",22.5,1
-"YEM","Mareb",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","Borderline",25.6,1
-"YEM","Abyan",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","Borderline",25.3,1
-"YEM","Hudeida",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","Borderline",23.1,1
-"YEM","Shabwa",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","Borderline",16.9,1
-"YEM","Dhamar",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","Borderline",16.9,1
-"YEM","Sana'a",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","Borderline",12.6,1
-"YEM","Aden",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","Borderline",10.6,1
-"YEM","Al Mahra",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","Borderline",5.6,1
-"YEM","Hadramout",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","Borderline",7.7,1
-"YEM","Sana'a City",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","Borderline",7.2,1
-"YEM",NA,NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","Borderline",19.7,1
-"BEN","Alibori",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","Acceptable",98.4329570311941,1
-"BEN","Atacora",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","Acceptable",71.2657806608404,1
-"BEN","Atlantique",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","Acceptable",96.9489366996657,1
-"BEN","Borgou",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","Acceptable",89.1890735197786,1
-"BEN","Collines",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","Acceptable",88.1245214125566,1
-"BEN","Couffo",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","Acceptable",72.931420801099,1
-"BEN","Donga",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","Acceptable",81.1985330241299,1
-"BEN","Littoral",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","Acceptable",98.1593002240651,1
-"BEN","Mono",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","Acceptable",66.5993420129227,1
-"BEN","Oueme",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","Acceptable",91.5695729197867,1
-"BEN","Plateau",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","Acceptable",97.861776351676,1
-"BEN","Zhou",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","Acceptable",86.3981991990758,1
-"BEN",NA,NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","Acceptable",87.8,1
-"BEN","Alibori",NA,"2013","Not yet posted","Acceptable",84,1
-"BEN","Atacora",NA,"2013","Not yet posted","Acceptable",52,1
-"BEN","Atlantique",NA,"2013","Not yet posted","Acceptable",82,1
-"BEN","Borgou",NA,"2013","Not yet posted","Acceptable",66,1
-"BEN","Collines",NA,"2013","Not yet posted","Acceptable",73,1
-"BEN","Couffo",NA,"2013","Not yet posted","Acceptable",53,1
-"BEN","Donga",NA,"2013","Not yet posted","Acceptable",75,1
-"BEN","Littoral",NA,"2013","Not yet posted","Acceptable",96,1
-"BEN","Mono",NA,"2013","Not yet posted","Acceptable",51,1
-"BEN","Oueme",NA,"2013","Not yet posted","Acceptable",88,1
-"BEN","Plateau",NA,"2013","Not yet posted","Acceptable",92,1
-"BEN","Zhou",NA,"2013","Not yet posted","Acceptable",77,1
-"BEN","Cotonou ",NA,"2013","Not yet posted","Acceptable",96,1
-"BEN",NA,NA,"2013","Not yet posted","Acceptable",77,1
-"BDI","Muyinga",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","Acceptable",68.7,1
-"BDI","Kirundo",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","Acceptable",75,1
-"BDI","Cibitoke",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","Acceptable",63.7,1
-"BDI","Ngozi",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","Acceptable",58.7,1
-"BDI","Kayanza",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","Acceptable",69,1
-"BDI","Cankuzo",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","Acceptable",66,1
-"BDI","Karuzi",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","Acceptable",59,1
-"BDI","Bubanza",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","Acceptable",69.7,1
-"BDI","Gitega",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","Acceptable",77.9,1
-"BDI","Muramvya",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","Acceptable",81.8,1
-"BDI","Ruyigi",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","Acceptable",74.9,1
-"BDI","Bujumbura Rural",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","Acceptable",69.9,1
-"BDI","Mwaro",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","Acceptable",71.7,1
-"BDI","Bururi",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","Acceptable",90.2,1
-"BDI","Rutana",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","Acceptable",80.7,1
-"BDI","Makamba",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","Acceptable",92.3,1
-"BDI",NA,NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","Acceptable",72.3,1
-"CMR","Extreme-Nord",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/35","Acceptable",90,1
-"CMR","Nord",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/35","Acceptable",91,1
-"CMR","Adamaoua",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/35","Acceptable",76,1
-"CMR","Nord-Ouest",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/35","Acceptable",59,1
-"CMR","Sud-Ouest",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/35","Acceptable",76,1
-"CMR","Ouest",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/35","Acceptable",74,1
-"CMR","Centre",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/35","Acceptable",48,1
-"CMR","Est",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/35","Acceptable",65,1
-"CMR","Littoral",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/35","Acceptable",73,1
-"CMR","Sud",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/35","Acceptable",75,1
-"CMR",NA,NA,"2007","http://nada.vam.wfp.org/index.php/catalog/35","Acceptable",74,1
-"TCD","Batha",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","Acceptable",37.4,1
-"TCD","Chari-Baguirmi / Hadjer-Lamis",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","Acceptable",53.3,1
-"TCD","Guéra",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","Acceptable",66.9,1
-"TCD","Kanem",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","Acceptable",65.2,1
-"TCD","Lac",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","Acceptable",72.2,1
-"TCD","Logone Occidental",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","Acceptable",63.2,1
-"TCD","Logone Oriental",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","Acceptable",63.4,1
-"TCD","Moyen-Chari and Mandoul",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","Acceptable",50.3,1
-"TCD","Mayo-Kebbi Est and Ouest",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","Acceptable",46.6,1
-"TCD","Ouaddaï",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","Acceptable",47.8,1
-"TCD","Salamat",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","Acceptable",52.5,1
-"TCD","Tandjilé",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","Acceptable",56.7,1
-"TCD","Wadi Fira",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","Acceptable",55,1
-"TCD",NA,NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","Acceptable",58.6,1
-"DRC","Bandundu",NA,"2007-2008","http://nada.vam.wfp.org/index.php/catalog/15","Acceptable",68.3100483610962,1
-"DRC","Bas Congo ",NA,"2007-2008","http://nada.vam.wfp.org/index.php/catalog/15","Acceptable",62.8274722681142,1
-"DRC","Equateur",NA,"2007-2008","http://nada.vam.wfp.org/index.php/catalog/15","Acceptable",72.6041513322538,1
-"DRC","Province Orientale",NA,"2007-2008","http://nada.vam.wfp.org/index.php/catalog/15","Acceptable",62.9158777387071,1
-"DRC","Kasai Oriental",NA,"2007-2008","http://nada.vam.wfp.org/index.php/catalog/15","Acceptable",58.7098129859214,1
-"DRC","Kasai Occidental",NA,"2007-2008","http://nada.vam.wfp.org/index.php/catalog/15","Acceptable",81.711727225762,1
-"DRC","Katanga",NA,"2007-2008","http://nada.vam.wfp.org/index.php/catalog/15","Acceptable",53.4113262242468,1
-"DRC","Maniema",NA,"2007-2008","http://nada.vam.wfp.org/index.php/catalog/15","Acceptable",43.7045327364298,1
-"DRC","Nord Kivu",NA,"2007-2008","http://nada.vam.wfp.org/index.php/catalog/15","Acceptable",63.8235294117647,1
-"DRC","Sud Kivu",NA,"2007-2008","http://nada.vam.wfp.org/index.php/catalog/15","Acceptable",55.2012663952962,1
-"DRC",NA,NA,"2007-2008","http://nada.vam.wfp.org/index.php/catalog/15","Acceptable",63.5970872095049,1
-"ETH","Tigray",NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","Acceptable",84.5666492324719,1
-"ETH","Afar",NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","Acceptable",94.2870924621852,1
-"ETH","Amhara",NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","Acceptable",88.963949404344,1
-"ETH","Oromia",NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","Acceptable",80.2064569045113,1
-"ETH","Somali",NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","Acceptable",83.6117908436771,1
-"ETH","Benishangul Gamuz",NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","Acceptable",83.2261736053226,1
-"ETH","SNNPR",NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","Acceptable",37.2296967859945,1
-"ETH","Gambela",NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","Acceptable",71.6048454826269,1
-"ETH","Harari",NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","Acceptable",90.5682686980848,1
-"ETH","Addis Ababa",NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","Acceptable",69.4259491816723,1
-"ETH","Dire Dawa",NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","Acceptable",88.8758519374361,1
-"ETH",NA,NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","Acceptable",73.9092646259857,1
-"GHA","Western Rural",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","Acceptable",99.2,1
-"GHA","Central Rural",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","Acceptable",96.5,1
-"GHA","Greater Accra Rural",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","Acceptable",98.6,1
-"GHA","Volta Rural",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","Acceptable",96.8,1
-"GHA","Eastern Rural ",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","Acceptable",96.1,1
-"GHA","Ashanti Rural",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","Acceptable",92.8,1
-"GHA","Brong Ahafo Rural",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","Acceptable",96.6,1
-"GHA","Northen Rural",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","Acceptable",90.4,1
-"GHA","Upper East Rural",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","Acceptable",84.8,1
-"GHA","Upper West Rural",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","Acceptable",66,1
-"GHA","Urban (Accra)",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","Acceptable",98,1
-"GHA","Urban (Other)",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","Acceptable",95.7,1
-"GHA",NA,NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","Acceptable",94.6,1
-"GNQ","Boke",NA,"2009",NA,"Acceptable",88.5,1
-"GNQ","Faranah",NA,"2009",NA,"Acceptable",75.3,1
-"GNQ","Kankan",NA,"2009",NA,"Acceptable",76.4,1
-"GNQ","Kindia",NA,"2009",NA,"Acceptable",72.7,1
-"GNQ","Labe",NA,"2009",NA,"Acceptable",62,1
-"GNQ","Mamou",NA,"2009",NA,"Acceptable",68.7,1
-"GNQ","N'Zerekore",NA,"2009",NA,"Acceptable",47.3,1
-"GNQ",NA,NA,"2009",NA,"Acceptable",67.9,1
-"HTI","Nord-Ouest",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/18","Acceptable",57.7,1
-"HTI","Nord",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/18","Acceptable",62.1,1
-"HTI","Nord-Est",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/18","Acceptable",64.6,1
-"HTI","Artibonite",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/18","Acceptable",74.3,1
-"HTI","Centre",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/18","Acceptable",81.7,1
-"HTI","Ouest",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/18","Acceptable",80.1,1
-"HTI","Grande-Anse",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/18","Acceptable",68.6,1
-"HTI","Nippes",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/18","Acceptable",89.3,1
-"HTI","Sud",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/18","Acceptable",84.2,1
-"HTI","Sud-Est",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/18","Acceptable",80.7,1
-"HTI",NA,NA,"2007","http://nada.vam.wfp.org/index.php/catalog/18","Acceptable",75,1
-"LAO","Phongsaly",NA,"2006",NA,"Acceptable",82,1
-"LAO","Luangnamtha",NA,"2006",NA,"Acceptable",83,1
-"LAO","Oudomxay",NA,"2006",NA,"Acceptable",81,1
-"LAO","Luangprabang",NA,"2006",NA,"Acceptable",84,1
-"LAO","Huapanh",NA,"2006",NA,"Acceptable",79,1
-"LAO","Bokeo",NA,"2006",NA,"Acceptable",59,1
-"LAO","Xayabury",NA,"2006",NA,"Acceptable",90,1
-"LAO","Xiengkhuang",NA,"2006",NA,"Acceptable",75,1
-"LAO","Vientiane",NA,"2006",NA,"Acceptable",96,1
-"LAO","Bolikhamxay",NA,"2006",NA,"Acceptable",96,1
-"LAO","Khammouane",NA,"2006",NA,"Acceptable",90,1
-"LAO","Savannakhet",NA,"2006",NA,"Acceptable",96,1
-"LAO","Saravane",NA,"2006",NA,"Acceptable",70,1
-"LAO","Sekong",NA,"2006",NA,"Acceptable",76,1
-"LAO","Champassak",NA,"2006",NA,"Acceptable",99,1
-"LAO","Attapeu",NA,"2006",NA,"Acceptable",91,1
-"LAO",NA,NA,"2006",NA,"Acceptable",87,1
-"MDG",NA,NA,"2010","http://nada.vam.wfp.org/index.php/catalog/4","Acceptable",46.9,1
-"MOZ","Cabo Delgado",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/26","Acceptable",68,1
-"MOZ","Gaza",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/26","Acceptable",47,1
-"MOZ","Inhambane",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/26","Acceptable",57,1
-"MOZ","Manica",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/26","Acceptable",57,1
-"MOZ","Maputo",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/26","Acceptable",82,1
-"MOZ","Nampula",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/26","Acceptable",85,1
-"MOZ","Niassa",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/26","Acceptable",68,1
-"MOZ","Sofala",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/26","Acceptable",77,1
-"MOZ","Tete",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/26","Acceptable",66,1
-"MOZ","Zambezia",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/26","Acceptable",74,1
-"MOZ",NA,NA,"2009","http://nada.vam.wfp.org/index.php/catalog/26","Acceptable",72.6,1
-"RWA","Nyanza",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","Acceptable",88,1
-"RWA","Gisagara",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","Acceptable",85.9,1
-"RWA","Nyaruguru-Nyamagabe",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","Acceptable",68.6,1
-"RWA","Huye",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","Acceptable",81.1,1
-"RWA","Ruhango-Muhanga-Kamonyi",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","Acceptable",77.4,1
-"RWA","Karongi-Rutsiro",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","Acceptable",71.6,1
-"RWA","Rubavu",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","Acceptable",83.3,1
-"RWA","Nyabihu",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","Acceptable",61.9,1
-"RWA","Ngororero",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","Acceptable",65.1,1
-"RWA","Rusizi-Nyamasheke",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","Acceptable",67.4,1
-"RWA","Gakenke",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","Acceptable",84.3,1
-"RWA","Musanze-Burera",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","Acceptable",78.7,1
-"RWA","Rurindo-Gicumbi",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","Acceptable",86.7,1
-"RWA","Nyagatare-Gatsibo-Kayonza",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","Acceptable",90.1,1
-"RWA","Kirehe-Ngoma-Rwamagana",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","Acceptable",87,1
-"RWA","Bugesera",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","Acceptable",77.1,1
-"RWA",NA,NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","Acceptable",78.5,1
-"RWA","Kigali",NA,"2012","http://nada.vam.wfp.org/index.php/catalog/47","Acceptable",93,1
-"RWA","South",NA,"2012","http://nada.vam.wfp.org/index.php/catalog/47","Acceptable",79,1
-"RWA","West",NA,"2012","http://nada.vam.wfp.org/index.php/catalog/47","Acceptable",62,1
-"RWA","North ",NA,"2012","http://nada.vam.wfp.org/index.php/catalog/47","Acceptable",81,1
-"RWA","East",NA,"2012","http://nada.vam.wfp.org/index.php/catalog/47","Acceptable",86,1
-"RWA","Kigali","Nyarugenge","2012","http://nada.vam.wfp.org/index.php/catalog/47","Acceptable",98,1
-"RWA","Kigali","Gasabo","2012","http://nada.vam.wfp.org/index.php/catalog/47","Acceptable",90,1
-"RWA","Kigali","Kicukiro","2012","http://nada.vam.wfp.org/index.php/catalog/47","Acceptable",95,1
-"RWA","South","Nyanza","2012","http://nada.vam.wfp.org/index.php/catalog/47","Acceptable",76,1
-"RWA","South","Gisagara","2012","http://nada.vam.wfp.org/index.php/catalog/47","Acceptable",83,1
-"RWA","South","Nyaruguru","2012","http://nada.vam.wfp.org/index.php/catalog/47","Acceptable",78,1
-"RWA","South","Huye","2012","http://nada.vam.wfp.org/index.php/catalog/47","Acceptable",92,1
-"RWA","South","Nyamagabe","2012","http://nada.vam.wfp.org/index.php/catalog/47","Acceptable",68,1
-"RWA","South","Ruhango","2012","http://nada.vam.wfp.org/index.php/catalog/47","Acceptable",77,1
-"RWA","South","Muhanga","2012","http://nada.vam.wfp.org/index.php/catalog/47","Acceptable",74,1
-"RWA","South","Kamonyi","2012","http://nada.vam.wfp.org/index.php/catalog/47","Acceptable",86,1
-"RWA","West","Karongi","2012","http://nada.vam.wfp.org/index.php/catalog/47","Acceptable",63,1
-"RWA","West","Rutsiro","2012","http://nada.vam.wfp.org/index.php/catalog/47","Acceptable",47,1
-"RWA","West","Rubavu","2012","http://nada.vam.wfp.org/index.php/catalog/47","Acceptable",72,1
-"RWA","West","Nyabihu","2012","http://nada.vam.wfp.org/index.php/catalog/47","Acceptable",82,1
-"RWA","West","Ngororero","2012","http://nada.vam.wfp.org/index.php/catalog/47","Acceptable",56,1
-"RWA","West","Rusizi","2012","http://nada.vam.wfp.org/index.php/catalog/47","Acceptable",54,1
-"RWA","West","Nyamasheke","2012","http://nada.vam.wfp.org/index.php/catalog/47","Acceptable",63,1
-"RWA","North","Rulindo","2012","http://nada.vam.wfp.org/index.php/catalog/47","Acceptable",75,1
-"RWA","North","Gakenke","2012","http://nada.vam.wfp.org/index.php/catalog/47","Acceptable",76,1
-"RWA","North","Musanze","2012","http://nada.vam.wfp.org/index.php/catalog/47","Acceptable",88,1
-"RWA","North","Burera","2012","http://nada.vam.wfp.org/index.php/catalog/47","Acceptable",74,1
-"RWA","North","Gicumbi","2012","http://nada.vam.wfp.org/index.php/catalog/47","Acceptable",87,1
-"RWA","East","Rwamagana","2012","http://nada.vam.wfp.org/index.php/catalog/47","Acceptable",92,1
-"RWA","East","Nyagatare","2012","http://nada.vam.wfp.org/index.php/catalog/47","Acceptable",98,1
-"RWA","East","Gatsibo","2012","http://nada.vam.wfp.org/index.php/catalog/47","Acceptable",74,1
-"RWA","East","Kayonza","2012","http://nada.vam.wfp.org/index.php/catalog/47","Acceptable",91,1
-"RWA","East","Kirehe","2012","http://nada.vam.wfp.org/index.php/catalog/47","Acceptable",88,1
-"RWA","East","Ngoma","2012","http://nada.vam.wfp.org/index.php/catalog/47","Acceptable",88,1
-"RWA","East","Bugesera","2012","http://nada.vam.wfp.org/index.php/catalog/47","Acceptable",76,1
-"RWA",NA,NA,"2012","http://nada.vam.wfp.org/index.php/catalog/47","Acceptable",79,1
-"STP","Me-Zochi",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/23","Acceptable",68.5,1
-"STP","Caue",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/23","Acceptable",68.5,1
-"STP","Agua grande",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/23","Acceptable",72.4,1
-"STP","R.A. Principe",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/23","Acceptable",74.4,1
-"STP","Lemba",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/23","Acceptable",78.7,1
-"STP","Cantagalo",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/23","Acceptable",84.5,1
-"STP","Lobata",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/23","Acceptable",85.5,1
-"STP",NA,NA,"2007","http://nada.vam.wfp.org/index.php/catalog/23","Acceptable",77.2,1
-"SLE","Kailahun",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","Acceptable",79,1
-"SLE","Kenema",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","Acceptable",66.2,1
-"SLE","Kono",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","Acceptable",52.4,1
-"SLE","Bombali",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","Acceptable",74.5,1
-"SLE","Kambia",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","Acceptable",29,1
-"SLE","Koinadugu",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","Acceptable",34.3,1
-"SLE","Port Loko",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","Acceptable",29.4,1
-"SLE","Tonkolili",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","Acceptable",25.9,1
-"SLE","Bo",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","Acceptable",68,1
-"SLE","Bonthe",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","Acceptable",77.3,1
-"SLE","Moyamba",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","Acceptable",24.1,1
-"SLE","Pujehun",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","Acceptable",20.1,1
-"SLE","Western Area Rural",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","Acceptable",78,1
-"SLE","Western Area Urban",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","Acceptable",77,1
-"SLE","Western Area Slum",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","Acceptable",62.7,1
-"SLE",NA,NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","Acceptable",55,1
-"SLE","Bo",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","Acceptable",73.8,1
-"SLE","Bomabali",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","Acceptable",70.7,1
-"SLE","Bonthe",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","Acceptable",43.8,1
-"SLE","Kailahun",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","Acceptable",75.4,1
-"SLE","Kambia",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","Acceptable",77.8,1
-"SLE","Kenema",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","Acceptable",76.6,1
-"SLE","Koinadugu",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","Acceptable",87.2,1
-"SLE","Kono",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","Acceptable",84,1
-"SLE","Moyamba",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","Acceptable",69.3,1
-"SLE","Port Loko",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","Acceptable",62,1
-"SLE","Pujehun",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","Acceptable",68.4,1
-"SLE","Tonkolili",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","Acceptable",73.6,1
-"SLE","Western Area Rural",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","Acceptable",57.9,1
-"SLE",NA,NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","Acceptable",70.8,1
-"TZA","Arusha",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","Acceptable",68.2,1
-"TZA","Dar es Salaam",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","Acceptable",94.2,1
-"TZA","Dodoma",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","Acceptable",58.9,1
-"TZA","Iringa",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","Acceptable",85.4,1
-"TZA","Kagera",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","Acceptable",85.1,1
-"TZA","Kigoma",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","Acceptable",88.9,1
-"TZA","Kilimanjaro",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","Acceptable",85.7,1
-"TZA","Lindi",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","Acceptable",69,1
-"TZA","Manyara",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","Acceptable",39.6,1
-"TZA","Mara",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","Acceptable",80.6,1
-"TZA","Mbeya",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","Acceptable",94.4,1
-"TZA","Morogoro",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","Acceptable",61.4,1
-"TZA","Mtwara",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","Acceptable",51.4,1
-"TZA","Mwanza",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","Acceptable",79.2,1
-"TZA","Pwani",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","Acceptable",76.9,1
-"TZA","Rukwa",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","Acceptable",89.1,1
-"TZA","Ruvuma",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","Acceptable",72.9,1
-"TZA","Shinyanga",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","Acceptable",82.8,1
-"TZA","Singida",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","Acceptable",69.1,1
-"TZA","Tabora",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","Acceptable",86.6,1
-"TZA","Tanga",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","Acceptable",90.2,1
-"TZA",NA,NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","Acceptable",77,1
-"TZA","Singida",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Acceptable",11.1,1
-"TZA","Tabora",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Acceptable",10.5,1
-"TZA","Dodoma",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Acceptable",26.2,1
-"TZA","Kagera",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Acceptable",54.7,1
-"TZA","Manyara",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Acceptable",51.6,1
-"TZA","Mwanza",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Acceptable",38.1,1
-"TZA","Mtwara",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Acceptable",38.9,1
-"TZA","Kigoma",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Acceptable",56.3,1
-"TZA","Ruvuma",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Acceptable",60.3,1
-"TZA","Iringa",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Acceptable",33.3,1
-"TZA","Morogoro",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Acceptable",61.9,1
-"TZA","Lindi",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Acceptable",61.1,1
-"TZA","Arusha",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Acceptable",59.5,1
-"TZA","Mara",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Acceptable",53.2,1
-"TZA","Rukwa",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Acceptable",66.4,1
-"TZA","Tanga",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Acceptable",75.4,1
-"TZA","Zanzibar/Pemba",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Acceptable",71.4,1
-"TZA","Dar es Salaam",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Acceptable",52.4,1
-"TZA","Shinyanga",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Acceptable",71.4,1
-"TZA","Kilimanjaro",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Acceptable",79.4,1
-"TZA","Pwani",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Acceptable",71.4,1
-"TZA","Mbeya",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Acceptable",87.3,1
-"TZA",NA,NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","Acceptable",55.3,1
-"YEM","Abyan",NA,"2011","not yet posted","Acceptable",50.4,1
-"YEM","Ad Daleh",NA,"2011","not yet posted","Acceptable",43.4,1
-"YEM","Aden",NA,"2011","not yet posted","Acceptable",76.6,1
-"YEM","Al Bayda",NA,"2011","not yet posted","Acceptable",23.5,1
-"YEM","Hudeida",NA,"2011","not yet posted","Acceptable",66.7,1
-"YEM","Al Mahra",NA,"2011","not yet posted","Acceptable",86.2,1
-"YEM","Al Mahweet",NA,"2011","not yet posted","Acceptable",70,1
-"YEM","Amran",NA,"2011","not yet posted","Acceptable",54,1
-"YEM","Dhamar",NA,"2011","not yet posted","Acceptable",53.9,1
-"YEM","Hadramout",NA,"2011","not yet posted","Acceptable",81.9,1
-"YEM","Hajjah",NA,"2011","not yet posted","Acceptable",46.7,1
-"YEM","Ibb",NA,"2011","not yet posted","Acceptable",45.5,1
-"YEM","Lahej",NA,"2011","not yet posted","Acceptable",42,1
-"YEM","Mareb",NA,"2011","not yet posted","Acceptable",24.2,1
-"YEM","Rayma",NA,"2011","not yet posted","Acceptable",49.4,1
-"YEM","Sana'a",NA,"2011","not yet posted","Acceptable",30.9,1
-"YEM","Sana'a City",NA,"2011","not yet posted","Acceptable",72.5,1
-"YEM","Shabwa",NA,"2011","not yet posted","Acceptable",62.2,1
-"YEM","Taiz",NA,"2011","not yet posted","Acceptable",52.2,1
-"YEM",NA,NA,"2011","not yet posted","Acceptable",55.5,1
-"YEM","Rayma",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","Acceptable",47.2,1
-"YEM","Hajjah",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","Acceptable",53.7,1
-"YEM","Ibb",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","Acceptable",56,1
-"YEM","Ad Daleh",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","Acceptable",56,1
-"YEM","Amran",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","Acceptable",57.2,1
-"YEM","Al Mahweet",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","Acceptable",59.5,1
-"YEM","Al Bayda",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","Acceptable",61.7,1
-"YEM","Taiz",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","Acceptable",63.6,1
-"YEM","Lahej",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","Acceptable",64.6,1
-"YEM","Mareb",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","Acceptable",66,1
-"YEM","Abyan",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","Acceptable",66.3,1
-"YEM","Hudeida",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","Acceptable",66.8,1
-"YEM","Shabwa",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","Acceptable",73.3,1
-"YEM","Dhamar",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","Acceptable",76.3,1
-"YEM","Sana'a",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","Acceptable",84.4,1
-"YEM","Aden",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","Acceptable",87.9,1
-"YEM","Al Mahra",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","Acceptable",89.7,1
-"YEM","Hadramout",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","Acceptable",90.2,1
-"YEM","Sana'a City",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","Acceptable",91.5,1
-"YEM",NA,NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","Acceptable",68.5,1
+"BEN","Alibori",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","CHD.B.FOS.04.T6",0,1
+"BEN","Atacora",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","CHD.B.FOS.04.T6",6.08193930244706,1
+"BEN","Atlantique",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","CHD.B.FOS.04.T6",0.63761629444039,1
+"BEN","Borgou",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","CHD.B.FOS.04.T6",0,1
+"BEN","Collines",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","CHD.B.FOS.04.T6",2.96974858440346,1
+"BEN","Couffo",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","CHD.B.FOS.04.T6",6.19417827876139,1
+"BEN","Donga",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","CHD.B.FOS.04.T6",2.56371823729648,1
+"BEN","Littoral",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","CHD.B.FOS.04.T6",0,1
+"BEN","Mono",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","CHD.B.FOS.04.T6",3.52713241184108,1
+"BEN","Oueme",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","CHD.B.FOS.04.T6",0.842689086036564,1
+"BEN","Plateau",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","CHD.B.FOS.04.T6",0,1
+"BEN","Zhou",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","CHD.B.FOS.04.T6",1.424631157133,1
+"BEN",NA,NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","CHD.B.FOS.04.T6",1.8,1
+"BEN","Alibori",NA,"2013","Not yet posted","CHD.B.FOS.04.T6",1,1
+"BEN","Atacora",NA,"2013","Not yet posted","CHD.B.FOS.04.T6",13,1
+"BEN","Atlantique",NA,"2013","Not yet posted","CHD.B.FOS.04.T6",2,1
+"BEN","Borgou",NA,"2013","Not yet posted","CHD.B.FOS.04.T6",7,1
+"BEN","Collines",NA,"2013","Not yet posted","CHD.B.FOS.04.T6",1,1
+"BEN","Couffo",NA,"2013","Not yet posted","CHD.B.FOS.04.T6",20,1
+"BEN","Donga",NA,"2013","Not yet posted","CHD.B.FOS.04.T6",8,1
+"BEN","Littoral",NA,"2013","Not yet posted","CHD.B.FOS.04.T6",0,1
+"BEN","Mono",NA,"2013","Not yet posted","CHD.B.FOS.04.T6",15,1
+"BEN","Oueme",NA,"2013","Not yet posted","CHD.B.FOS.04.T6",3,1
+"BEN","Plateau",NA,"2013","Not yet posted","CHD.B.FOS.04.T6",1,1
+"BEN","Zhou",NA,"2013","Not yet posted","CHD.B.FOS.04.T6",3,1
+"BEN","Cotonou ",NA,"2013","Not yet posted","CHD.B.FOS.04.T6",0,1
+"BEN",NA,NA,"2013","Not yet posted","CHD.B.FOS.04.T6",5,1
+"BDI","Muyinga",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","CHD.B.FOS.04.T6",8.6,1
+"BDI","Kirundo",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","CHD.B.FOS.04.T6",2.2,1
+"BDI","Cibitoke",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","CHD.B.FOS.04.T6",7.7,1
+"BDI","Ngozi",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","CHD.B.FOS.04.T6",8.2,1
+"BDI","Kayanza",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","CHD.B.FOS.04.T6",1.3,1
+"BDI","Cankuzo",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","CHD.B.FOS.04.T6",8.7,1
+"BDI","Karuzi",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","CHD.B.FOS.04.T6",10.6,1
+"BDI","Bubanza",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","CHD.B.FOS.04.T6",3.8,1
+"BDI","Gitega",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","CHD.B.FOS.04.T6",3.7,1
+"BDI","Muramvya",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","CHD.B.FOS.04.T6",2.2,1
+"BDI","Ruyigi",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","CHD.B.FOS.04.T6",4.4,1
+"BDI","Bujumbura Rural",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","CHD.B.FOS.04.T6",6,1
+"BDI","Mwaro",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","CHD.B.FOS.04.T6",2.6,1
+"BDI","Bururi",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","CHD.B.FOS.04.T6",1,1
+"BDI","Rutana",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","CHD.B.FOS.04.T6",3.1,1
+"BDI","Makamba",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","CHD.B.FOS.04.T6",0.6,1
+"BDI",NA,NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","CHD.B.FOS.04.T6",4.8,1
+"CMR","Extreme-Nord",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/35","CHD.B.FOS.04.T6",3,1
+"CMR","Nord",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/35","CHD.B.FOS.04.T6",4,1
+"CMR","Adamaoua",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/35","CHD.B.FOS.04.T6",10,1
+"CMR","Nord-Ouest",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/35","CHD.B.FOS.04.T6",18,1
+"CMR","Sud-Ouest",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/35","CHD.B.FOS.04.T6",12,1
+"CMR","Ouest",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/35","CHD.B.FOS.04.T6",8,1
+"CMR","Centre",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/35","CHD.B.FOS.04.T6",17,1
+"CMR","Est",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/35","CHD.B.FOS.04.T6",7,1
+"CMR","Littoral",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/35","CHD.B.FOS.04.T6",9,1
+"CMR","Sud",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/35","CHD.B.FOS.04.T6",8,1
+"CMR",NA,NA,"2007","http://nada.vam.wfp.org/index.php/catalog/35","CHD.B.FOS.04.T6",9,1
+"TCD","Batha",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","CHD.B.FOS.04.T6",37.4,1
+"TCD","Chari-Baguirmi / Hadjer-Lamis",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","CHD.B.FOS.04.T6",24,1
+"TCD","Guéra",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","CHD.B.FOS.04.T6",10.5,1
+"TCD","Kanem",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","CHD.B.FOS.04.T6",20.4,1
+"TCD","Lac",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","CHD.B.FOS.04.T6",15.3,1
+"TCD","Logone Occidental",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","CHD.B.FOS.04.T6",10.9,1
+"TCD","Logone Oriental",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","CHD.B.FOS.04.T6",9.3,1
+"TCD","Moyen-Chari and Mandoul",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","CHD.B.FOS.04.T6",18.1,1
+"TCD","Mayo-Kebbi Est and Ouest",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","CHD.B.FOS.04.T6",23.4,1
+"TCD","Ouaddaï",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","CHD.B.FOS.04.T6",7.3,1
+"TCD","Salamat",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","CHD.B.FOS.04.T6",19.7,1
+"TCD","Tandjilé",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","CHD.B.FOS.04.T6",18.4,1
+"TCD","Wadi Fira",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","CHD.B.FOS.04.T6",19.5,1
+"TCD",NA,NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","CHD.B.FOS.04.T6",16.4,1
+"DRC","Bandundu",NA,"2007-2008","http://nada.vam.wfp.org/index.php/catalog/15","CHD.B.FOS.04.T6",6.09887157442235,1
+"DRC","Bas Congo ",NA,"2007-2008","http://nada.vam.wfp.org/index.php/catalog/15","CHD.B.FOS.04.T6",6.89166863346708,1
+"DRC","Equateur",NA,"2007-2008","http://nada.vam.wfp.org/index.php/catalog/15","CHD.B.FOS.04.T6",2.10510819961725,1
+"DRC","Province Orientale",NA,"2007-2008","http://nada.vam.wfp.org/index.php/catalog/15","CHD.B.FOS.04.T6",5.39626724371112,1
+"DRC","Kasai Oriental",NA,"2007-2008","http://nada.vam.wfp.org/index.php/catalog/15","CHD.B.FOS.04.T6",7.1023324227779,1
+"DRC","Kasai Occidental",NA,"2007-2008","http://nada.vam.wfp.org/index.php/catalog/15","CHD.B.FOS.04.T6",0.998794558291717,1
+"DRC","Katanga",NA,"2007-2008","http://nada.vam.wfp.org/index.php/catalog/15","CHD.B.FOS.04.T6",11.3883424785174,1
+"DRC","Maniema",NA,"2007-2008","http://nada.vam.wfp.org/index.php/catalog/15","CHD.B.FOS.04.T6",4.47677672076105,1
+"DRC","Nord Kivu",NA,"2007-2008","http://nada.vam.wfp.org/index.php/catalog/15","CHD.B.FOS.04.T6",5.58823529411765,1
+"DRC","Sud Kivu",NA,"2007-2008","http://nada.vam.wfp.org/index.php/catalog/15","CHD.B.FOS.04.T6",11.6915422885572,1
+"DRC",NA,NA,"2007-2008","http://nada.vam.wfp.org/index.php/catalog/15","CHD.B.FOS.04.T6",6.38653705445803,1
+"ETH","Tigray",NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","CHD.B.FOS.04.T6",2.61179642769831,1
+"ETH","Afar",NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","CHD.B.FOS.04.T6",1.10386532678662,1
+"ETH","Amhara",NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","CHD.B.FOS.04.T6",1.97813227720541,1
+"ETH","Oromia",NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","CHD.B.FOS.04.T6",5.68306650903854,1
+"ETH","Somali",NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","CHD.B.FOS.04.T6",6.57320184617143,1
+"ETH","Benishangul Gamuz",NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","CHD.B.FOS.04.T6",1.64132926620915,1
+"ETH","SNNPR",NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","CHD.B.FOS.04.T6",30.5932190319484,1
+"ETH","Gambela",NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","CHD.B.FOS.04.T6",6.83546141691938,1
+"ETH","Harari",NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","CHD.B.FOS.04.T6",0.25220863226165,1
+"ETH","Addis Ababa",NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","CHD.B.FOS.04.T6",7.97989957902827,1
+"ETH","Dire Dawa",NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","CHD.B.FOS.04.T6",0.370476073080112,1
+"ETH",NA,NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","CHD.B.FOS.04.T6",9.51963839506532,1
+"GHA","Western Rural",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","CHD.B.FOS.04.T6",0,1
+"GHA","Central Rural",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","CHD.B.FOS.04.T6",1.5,1
+"GHA","Greater Accra Rural",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","CHD.B.FOS.04.T6",0,1
+"GHA","Volta Rural",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","CHD.B.FOS.04.T6",1.6,1
+"GHA","Eastern Rural ",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","CHD.B.FOS.04.T6",1.1,1
+"GHA","Ashanti Rural",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","CHD.B.FOS.04.T6",0.8,1
+"GHA","Brong Ahafo Rural",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","CHD.B.FOS.04.T6",1.7,1
+"GHA","Northen Rural",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","CHD.B.FOS.04.T6",3.3,1
+"GHA","Upper East Rural",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","CHD.B.FOS.04.T6",5.7,1
+"GHA","Upper West Rural",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","CHD.B.FOS.04.T6",11.3,1
+"GHA","Urban (Accra)",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","CHD.B.FOS.04.T6",0.8,1
+"GHA","Urban (Other)",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","CHD.B.FOS.04.T6",1,1
+"GHA",NA,NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","CHD.B.FOS.04.T6",1.6,1
+"GNQ","Boke",NA,"2009",NA,"CHD.B.FOS.04.T6",2.4,1
+"GNQ","Faranah",NA,"2009",NA,"CHD.B.FOS.04.T6",4.5,1
+"GNQ","Kankan",NA,"2009",NA,"CHD.B.FOS.04.T6",4.1,1
+"GNQ","Kindia",NA,"2009",NA,"CHD.B.FOS.04.T6",10.2,1
+"GNQ","Labe",NA,"2009",NA,"CHD.B.FOS.04.T6",10.4,1
+"GNQ","Mamou",NA,"2009",NA,"CHD.B.FOS.04.T6",2.8,1
+"GNQ","N'Zerekore",NA,"2009",NA,"CHD.B.FOS.04.T6",16.9,1
+"GNQ",NA,NA,"2009",NA,"CHD.B.FOS.04.T6",8.4,1
+"HTI","Nord-Ouest",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/18","CHD.B.FOS.04.T6",11.8,1
+"HTI","Nord",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/18","CHD.B.FOS.04.T6",12.2,1
+"HTI","Nord-Est",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/18","CHD.B.FOS.04.T6",8.4,1
+"HTI","Artibonite",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/18","CHD.B.FOS.04.T6",5.7,1
+"HTI","Centre",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/18","CHD.B.FOS.04.T6",2.9,1
+"HTI","Ouest",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/18","CHD.B.FOS.04.T6",3.7,1
+"HTI","Grande-Anse",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/18","CHD.B.FOS.04.T6",6,1
+"HTI","Nippes",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/18","CHD.B.FOS.04.T6",2.8,1
+"HTI","Sud",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/18","CHD.B.FOS.04.T6",3.8,1
+"HTI","Sud-Est",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/18","CHD.B.FOS.04.T6",4.6,1
+"HTI",NA,NA,"2007","http://nada.vam.wfp.org/index.php/catalog/18","CHD.B.FOS.04.T6",5.9,1
+"LAO","Phongsaly",NA,"2006",NA,"CHD.B.FOS.04.T6",4,1
+"LAO","Luangnamtha",NA,"2006",NA,"CHD.B.FOS.04.T6",2,1
+"LAO","Oudomxay",NA,"2006",NA,"CHD.B.FOS.04.T6",4,1
+"LAO","Luangprabang",NA,"2006",NA,"CHD.B.FOS.04.T6",2,1
+"LAO","Huapanh",NA,"2006",NA,"CHD.B.FOS.04.T6",2,1
+"LAO","Bokeo",NA,"2006",NA,"CHD.B.FOS.04.T6",11,1
+"LAO","Xayabury",NA,"2006",NA,"CHD.B.FOS.04.T6",1,1
+"LAO","Xiengkhuang",NA,"2006",NA,"CHD.B.FOS.04.T6",3,1
+"LAO","Vientiane",NA,"2006",NA,"CHD.B.FOS.04.T6",0,1
+"LAO","Bolikhamxay",NA,"2006",NA,"CHD.B.FOS.04.T6",1,1
+"LAO","Khammouane",NA,"2006",NA,"CHD.B.FOS.04.T6",1,1
+"LAO","Savannakhet",NA,"2006",NA,"CHD.B.FOS.04.T6",1,1
+"LAO","Saravane",NA,"2006",NA,"CHD.B.FOS.04.T6",4,1
+"LAO","Sekong",NA,"2006",NA,"CHD.B.FOS.04.T6",10,1
+"LAO","Champassak",NA,"2006",NA,"CHD.B.FOS.04.T6",0,1
+"LAO","Attapeu",NA,"2006",NA,"CHD.B.FOS.04.T6",1,1
+"LAO",NA,NA,"2006",NA,"CHD.B.FOS.04.T6",2,1
+"MDG",NA,NA,"2010","http://nada.vam.wfp.org/index.php/catalog/4","CHD.B.FOS.04.T6",11.9,1
+"MOZ","Cabo Delgado",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/26","CHD.B.FOS.04.T6",15,1
+"MOZ","Gaza",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/26","CHD.B.FOS.04.T6",18,1
+"MOZ","Inhambane",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/26","CHD.B.FOS.04.T6",9,1
+"MOZ","Manica",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/26","CHD.B.FOS.04.T6",15,1
+"MOZ","Maputo",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/26","CHD.B.FOS.04.T6",6,1
+"MOZ","Nampula",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/26","CHD.B.FOS.04.T6",3,1
+"MOZ","Niassa",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/26","CHD.B.FOS.04.T6",4,1
+"MOZ","Sofala",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/26","CHD.B.FOS.04.T6",3,1
+"MOZ","Tete",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/26","CHD.B.FOS.04.T6",11,1
+"MOZ","Zambezia",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/26","CHD.B.FOS.04.T6",12,1
+"MOZ",NA,NA,"2009","http://nada.vam.wfp.org/index.php/catalog/26","CHD.B.FOS.04.T6",9.1,1
+"RWA","Nyanza",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","CHD.B.FOS.04.T6",2.3,1
+"RWA","Gisagara",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","CHD.B.FOS.04.T6",1.5,1
+"RWA","Nyaruguru-Nyamagabe",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","CHD.B.FOS.04.T6",8.4,1
+"RWA","Huye",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","CHD.B.FOS.04.T6",3.3,1
+"RWA","Ruhango-Muhanga-Kamonyi",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","CHD.B.FOS.04.T6",5.5,1
+"RWA","Karongi-Rutsiro",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","CHD.B.FOS.04.T6",5.6,1
+"RWA","Rubavu",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","CHD.B.FOS.04.T6",2.6,1
+"RWA","Nyabihu",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","CHD.B.FOS.04.T6",9.5,1
+"RWA","Ngororero",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","CHD.B.FOS.04.T6",9.5,1
+"RWA","Rusizi-Nyamasheke",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","CHD.B.FOS.04.T6",4.5,1
+"RWA","Gakenke",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","CHD.B.FOS.04.T6",3.3,1
+"RWA","Musanze-Burera",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","CHD.B.FOS.04.T6",3.7,1
+"RWA","Rurindo-Gicumbi",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","CHD.B.FOS.04.T6",1.2,1
+"RWA","Nyagatare-Gatsibo-Kayonza",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","CHD.B.FOS.04.T6",0.3,1
+"RWA","Kirehe-Ngoma-Rwamagana",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","CHD.B.FOS.04.T6",1.1,1
+"RWA","Bugesera",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","CHD.B.FOS.04.T6",5,1
+"RWA",NA,NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","CHD.B.FOS.04.T6",4.2,1
+"RWA","Kigali",NA,"2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.04.T6",3,1
+"RWA","South",NA,"2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.04.T6",3,1
+"RWA","West",NA,"2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.04.T6",8,1
+"RWA","North ",NA,"2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.04.T6",3,1
+"RWA","East",NA,"2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.04.T6",1,1
+"RWA","Kigali","Nyarugenge","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.04.T6",0,1
+"RWA","Kigali","Gasabo","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.04.T6",7,1
+"RWA","Kigali","Kicukiro","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.04.T6",1,1
+"RWA","South","Nyanza","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.04.T6",3,1
+"RWA","South","Gisagara","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.04.T6",1,1
+"RWA","South","Nyaruguru","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.04.T6",7,1
+"RWA","South","Huye","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.04.T6",0,1
+"RWA","South","Nyamagabe","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.04.T6",6,1
+"RWA","South","Ruhango","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.04.T6",5,1
+"RWA","South","Muhanga","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.04.T6",3,1
+"RWA","South","Kamonyi","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.04.T6",1,1
+"RWA","West","Karongi","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.04.T6",12,1
+"RWA","West","Rutsiro","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.04.T6",14,1
+"RWA","West","Rubavu","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.04.T6",6,1
+"RWA","West","Nyabihu","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.04.T6",5,1
+"RWA","West","Ngororero","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.04.T6",9,1
+"RWA","West","Rusizi","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.04.T6",5,1
+"RWA","West","Nyamasheke","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.04.T6",7,1
+"RWA","North","Rulindo","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.04.T6",2,1
+"RWA","North","Gakenke","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.04.T6",3,1
+"RWA","North","Musanze","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.04.T6",2,1
+"RWA","North","Burera","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.04.T6",7,1
+"RWA","North","Gicumbi","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.04.T6",1,1
+"RWA","East","Rwamagana","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.04.T6",1,1
+"RWA","East","Nyagatare","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.04.T6",0,1
+"RWA","East","Gatsibo","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.04.T6",3,1
+"RWA","East","Kayonza","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.04.T6",1,1
+"RWA","East","Kirehe","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.04.T6",1,1
+"RWA","East","Ngoma","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.04.T6",2,1
+"RWA","East","Bugesera","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.04.T6",2,1
+"RWA",NA,NA,"2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.04.T6",4,1
+"STP","Me-Zochi",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/23","CHD.B.FOS.04.T6",18.5,1
+"STP","Caue",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/23","CHD.B.FOS.04.T6",18.5,1
+"STP","Agua grande",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/23","CHD.B.FOS.04.T6",15.2,1
+"STP","R.A. Principe",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/23","CHD.B.FOS.04.T6",10.3,1
+"STP","Lemba",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/23","CHD.B.FOS.04.T6",9.3,1
+"STP","Cantagalo",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/23","CHD.B.FOS.04.T6",3.6,1
+"STP","Lobata",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/23","CHD.B.FOS.04.T6",3.6,1
+"STP",NA,NA,"2007","http://nada.vam.wfp.org/index.php/catalog/23","CHD.B.FOS.04.T6",10.2,1
+"SLE","Kailahun",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","CHD.B.FOS.04.T6",3.7,1
+"SLE","Kenema",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","CHD.B.FOS.04.T6",1.9,1
+"SLE","Kono",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","CHD.B.FOS.04.T6",7.9,1
+"SLE","Bombali",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","CHD.B.FOS.04.T6",2.1,1
+"SLE","Kambia",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","CHD.B.FOS.04.T6",4.3,1
+"SLE","Koinadugu",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","CHD.B.FOS.04.T6",13.4,1
+"SLE","Port Loko",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","CHD.B.FOS.04.T6",5,1
+"SLE","Tonkolili",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","CHD.B.FOS.04.T6",22.5,1
+"SLE","Bo",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","CHD.B.FOS.04.T6",0.9,1
+"SLE","Bonthe",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","CHD.B.FOS.04.T6",1.1,1
+"SLE","Moyamba",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","CHD.B.FOS.04.T6",17.9,1
+"SLE","Pujehun",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","CHD.B.FOS.04.T6",6.8,1
+"SLE","Western Area Rural",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","CHD.B.FOS.04.T6",1.3,1
+"SLE","Western Area Urban",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","CHD.B.FOS.04.T6",6.3,1
+"SLE","Western Area Slum",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","CHD.B.FOS.04.T6",3,1
+"SLE",NA,NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","CHD.B.FOS.04.T6",6.5,1
+"SLE","Bo",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","CHD.B.FOS.04.T6",2.5,1
+"SLE","Bomabali",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","CHD.B.FOS.04.T6",3.3,1
+"SLE","Bonthe",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","CHD.B.FOS.04.T6",8.6,1
+"SLE","Kailahun",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","CHD.B.FOS.04.T6",0.7,1
+"SLE","Kambia",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","CHD.B.FOS.04.T6",0.7,1
+"SLE","Kenema",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","CHD.B.FOS.04.T6",1.6,1
+"SLE","Koinadugu",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","CHD.B.FOS.04.T6",1.4,1
+"SLE","Kono",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","CHD.B.FOS.04.T6",1.1,1
+"SLE","Moyamba",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","CHD.B.FOS.04.T6",0.7,1
+"SLE","Port Loko",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","CHD.B.FOS.04.T6",2.4,1
+"SLE","Pujehun",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","CHD.B.FOS.04.T6",1.6,1
+"SLE","Tonkolili",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","CHD.B.FOS.04.T6",2.5,1
+"SLE","Western Area Rural",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","CHD.B.FOS.04.T6",4.5,1
+"SLE",NA,NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","CHD.B.FOS.04.T6",2.4,1
+"TZA","Arusha",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","CHD.B.FOS.04.T6",6.8,1
+"TZA","Dar es Salaam",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","CHD.B.FOS.04.T6",0.5,1
+"TZA","Dodoma",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","CHD.B.FOS.04.T6",3.3,1
+"TZA","Iringa",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","CHD.B.FOS.04.T6",1.4,1
+"TZA","Kagera",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","CHD.B.FOS.04.T6",4.4,1
+"TZA","Kigoma",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","CHD.B.FOS.04.T6",0.5,1
+"TZA","Kilimanjaro",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","CHD.B.FOS.04.T6",2.7,1
+"TZA","Lindi",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","CHD.B.FOS.04.T6",5.3,1
+"TZA","Manyara",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","CHD.B.FOS.04.T6",17.6,1
+"TZA","Mara",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","CHD.B.FOS.04.T6",1,1
+"TZA","Mbeya",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","CHD.B.FOS.04.T6",0,1
+"TZA","Morogoro",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","CHD.B.FOS.04.T6",4.8,1
+"TZA","Mtwara",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","CHD.B.FOS.04.T6",20,1
+"TZA","Mwanza",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","CHD.B.FOS.04.T6",3.9,1
+"TZA","Pwani",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","CHD.B.FOS.04.T6",1.4,1
+"TZA","Rukwa",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","CHD.B.FOS.04.T6",1.4,1
+"TZA","Ruvuma",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","CHD.B.FOS.04.T6",1.9,1
+"TZA","Shinyanga",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","CHD.B.FOS.04.T6",3.8,1
+"TZA","Singida",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","CHD.B.FOS.04.T6",5.4,1
+"TZA","Tabora",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","CHD.B.FOS.04.T6",2.4,1
+"TZA","Tanga",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","CHD.B.FOS.04.T6",0.9,1
+"TZA",NA,NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","CHD.B.FOS.04.T6",4.1,1
+"TZA","Singida",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.04.T6",61.9,1
+"TZA","Tabora",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.04.T6",62.7,1
+"TZA","Dodoma",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.04.T6",47.6,1
+"TZA","Kagera",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.04.T6",15.9,1
+"TZA","Manyara",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.04.T6",21.4,1
+"TZA","Mwanza",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.04.T6",26.2,1
+"TZA","Mtwara",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.04.T6",19.8,1
+"TZA","Kigoma",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.04.T6",11.1,1
+"TZA","Ruvuma",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.04.T6",18.3,1
+"TZA","Iringa",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.04.T6",29.4,1
+"TZA","Morogoro",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.04.T6",20.6,1
+"TZA","Lindi",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.04.T6",7.1,1
+"TZA","Arusha",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.04.T6",13.5,1
+"TZA","Mara",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.04.T6",15.9,1
+"TZA","Rukwa",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.04.T6",8.8,1
+"TZA","Tanga",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.04.T6",4,1
+"TZA","Zanzibar/Pemba",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.04.T6",5.6,1
+"TZA","Dar es Salaam",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.04.T6",8.7,1
+"TZA","Shinyanga",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.04.T6",4.8,1
+"TZA","Kilimanjaro",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.04.T6",7.9,1
+"TZA","Pwani",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.04.T6",1.6,1
+"TZA","Mbeya",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.04.T6",1.6,1
+"TZA",NA,NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.04.T6",17.7,1
+"YEM","Abyan",NA,"2011","not yet posted","CHD.B.FOS.04.T6",19.9,1
+"YEM","Ad Daleh",NA,"2011","not yet posted","CHD.B.FOS.04.T6",29.4,1
+"YEM","Aden",NA,"2011","not yet posted","CHD.B.FOS.04.T6",5.7,1
+"YEM","Al Bayda",NA,"2011","not yet posted","CHD.B.FOS.04.T6",61,1
+"YEM","Hudeida",NA,"2011","not yet posted","CHD.B.FOS.04.T6",15.9,1
+"YEM","Al Mahra",NA,"2011","not yet posted","CHD.B.FOS.04.T6",1.7,1
+"YEM","Al Mahweet",NA,"2011","not yet posted","CHD.B.FOS.04.T6",12.8,1
+"YEM","Amran",NA,"2011","not yet posted","CHD.B.FOS.04.T6",25.9,1
+"YEM","Dhamar",NA,"2011","not yet posted","CHD.B.FOS.04.T6",24.1,1
+"YEM","Hadramout",NA,"2011","not yet posted","CHD.B.FOS.04.T6",2.9,1
+"YEM","Hajjah",NA,"2011","not yet posted","CHD.B.FOS.04.T6",30.7,1
+"YEM","Ibb",NA,"2011","not yet posted","CHD.B.FOS.04.T6",27.1,1
+"YEM","Lahej",NA,"2011","not yet posted","CHD.B.FOS.04.T6",23.5,1
+"YEM","Mareb",NA,"2011","not yet posted","CHD.B.FOS.04.T6",52.7,1
+"YEM","Rayma",NA,"2011","not yet posted","CHD.B.FOS.04.T6",31.1,1
+"YEM","Sana'a",NA,"2011","not yet posted","CHD.B.FOS.04.T6",45.4,1
+"YEM","Sana'a City",NA,"2011","not yet posted","CHD.B.FOS.04.T6",7.6,1
+"YEM","Shabwa",NA,"2011","not yet posted","CHD.B.FOS.04.T6",10.3,1
+"YEM","Taiz",NA,"2011","not yet posted","CHD.B.FOS.04.T6",22.4,1
+"YEM",NA,NA,"2011","not yet posted","CHD.B.FOS.04.T6",22.2,1
+"YEM","Rayma",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","CHD.B.FOS.04.T6",24.3,1
+"YEM","Hajjah",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","CHD.B.FOS.04.T6",17.1,1
+"YEM","Ibb",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","CHD.B.FOS.04.T6",20.1,1
+"YEM","Ad Daleh",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","CHD.B.FOS.04.T6",19.7,1
+"YEM","Amran",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","CHD.B.FOS.04.T6",21.1,1
+"YEM","Al Mahweet",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","CHD.B.FOS.04.T6",16.4,1
+"YEM","Al Bayda",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","CHD.B.FOS.04.T6",12.7,1
+"YEM","Taiz",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","CHD.B.FOS.04.T6",15.9,1
+"YEM","Lahej",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","CHD.B.FOS.04.T6",12.9,1
+"YEM","Mareb",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","CHD.B.FOS.04.T6",8.4,1
+"YEM","Abyan",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","CHD.B.FOS.04.T6",8.4,1
+"YEM","Hudeida",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","CHD.B.FOS.04.T6",10.1,1
+"YEM","Shabwa",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","CHD.B.FOS.04.T6",9.8,1
+"YEM","Dhamar",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","CHD.B.FOS.04.T6",6.8,1
+"YEM","Sana'a",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","CHD.B.FOS.04.T6",3.1,1
+"YEM","Aden",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","CHD.B.FOS.04.T6",1.5,1
+"YEM","Al Mahra",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","CHD.B.FOS.04.T6",4.8,1
+"YEM","Hadramout",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","CHD.B.FOS.04.T6",2.2,1
+"YEM","Sana'a City",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","CHD.B.FOS.04.T6",1.4,1
+"YEM",NA,NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","CHD.B.FOS.04.T6",11.8,1
+"BEN","Alibori",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","CHD.B.FOS.05.T6",1.56704296880593,1
+"BEN","Atacora",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","CHD.B.FOS.05.T6",22.6522800367126,1
+"BEN","Atlantique",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","CHD.B.FOS.05.T6",2.41344700589392,1
+"BEN","Borgou",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","CHD.B.FOS.05.T6",10.8109264802214,1
+"BEN","Collines",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","CHD.B.FOS.05.T6",8.90573000303997,1
+"BEN","Couffo",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","CHD.B.FOS.05.T6",20.8744009201396,1
+"BEN","Donga",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","CHD.B.FOS.05.T6",16.2377487385736,1
+"BEN","Littoral",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","CHD.B.FOS.05.T6",1.84069977593487,1
+"BEN","Mono",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","CHD.B.FOS.05.T6",29.8735255752362,1
+"BEN","Oueme",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","CHD.B.FOS.05.T6",7.58773799417677,1
+"BEN","Plateau",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","CHD.B.FOS.05.T6",2.13822364832397,1
+"BEN","Zhou",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","CHD.B.FOS.05.T6",12.1771696437912,1
+"BEN",NA,NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","CHD.B.FOS.05.T6",10.4,1
+"BEN","Alibori",NA,"2013","Not yet posted","CHD.B.FOS.05.T6",15,1
+"BEN","Atacora",NA,"2013","Not yet posted","CHD.B.FOS.05.T6",35,1
+"BEN","Atlantique",NA,"2013","Not yet posted","CHD.B.FOS.05.T6",16,1
+"BEN","Borgou",NA,"2013","Not yet posted","CHD.B.FOS.05.T6",27,1
+"BEN","Collines",NA,"2013","Not yet posted","CHD.B.FOS.05.T6",26,1
+"BEN","Couffo",NA,"2013","Not yet posted","CHD.B.FOS.05.T6",27,1
+"BEN","Donga",NA,"2013","Not yet posted","CHD.B.FOS.05.T6",17,1
+"BEN","Littoral",NA,"2013","Not yet posted","CHD.B.FOS.05.T6",4,1
+"BEN","Mono",NA,"2013","Not yet posted","CHD.B.FOS.05.T6",34,1
+"BEN","Oueme",NA,"2013","Not yet posted","CHD.B.FOS.05.T6",9,1
+"BEN","Plateau",NA,"2013","Not yet posted","CHD.B.FOS.05.T6",7,1
+"BEN","Zhou",NA,"2013","Not yet posted","CHD.B.FOS.05.T6",20,1
+"BEN","Cotonou ",NA,"2013","Not yet posted","CHD.B.FOS.05.T6",4,1
+"BEN",NA,NA,"2013","Not yet posted","CHD.B.FOS.05.T6",18,1
+"BDI","Muyinga",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","CHD.B.FOS.05.T6",22.6,1
+"BDI","Kirundo",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","CHD.B.FOS.05.T6",22.8,1
+"BDI","Cibitoke",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","CHD.B.FOS.05.T6",28.6,1
+"BDI","Ngozi",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","CHD.B.FOS.05.T6",33.1,1
+"BDI","Kayanza",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","CHD.B.FOS.05.T6",29.7,1
+"BDI","Cankuzo",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","CHD.B.FOS.05.T6",25.4,1
+"BDI","Karuzi",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","CHD.B.FOS.05.T6",30.4,1
+"BDI","Bubanza",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","CHD.B.FOS.05.T6",26.5,1
+"BDI","Gitega",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","CHD.B.FOS.05.T6",18.4,1
+"BDI","Muramvya",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","CHD.B.FOS.05.T6",16,1
+"BDI","Ruyigi",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","CHD.B.FOS.05.T6",20.8,1
+"BDI","Bujumbura Rural",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","CHD.B.FOS.05.T6",24.1,1
+"BDI","Mwaro",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","CHD.B.FOS.05.T6",25.8,1
+"BDI","Bururi",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","CHD.B.FOS.05.T6",8.8,1
+"BDI","Rutana",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","CHD.B.FOS.05.T6",16.2,1
+"BDI","Makamba",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","CHD.B.FOS.05.T6",7.1,1
+"BDI",NA,NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","CHD.B.FOS.05.T6",22.9,1
+"CMR","Extreme-Nord",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/35","CHD.B.FOS.05.T6",7,1
+"CMR","Nord",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/35","CHD.B.FOS.05.T6",5,1
+"CMR","Adamaoua",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/35","CHD.B.FOS.05.T6",14,1
+"CMR","Nord-Ouest",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/35","CHD.B.FOS.05.T6",22,1
+"CMR","Sud-Ouest",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/35","CHD.B.FOS.05.T6",12,1
+"CMR","Ouest",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/35","CHD.B.FOS.05.T6",18,1
+"CMR","Centre",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/35","CHD.B.FOS.05.T6",35,1
+"CMR","Est",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/35","CHD.B.FOS.05.T6",28,1
+"CMR","Littoral",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/35","CHD.B.FOS.05.T6",18,1
+"CMR","Sud",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/35","CHD.B.FOS.05.T6",17,1
+"CMR",NA,NA,"2007","http://nada.vam.wfp.org/index.php/catalog/35","CHD.B.FOS.05.T6",17,1
+"TCD","Batha",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","CHD.B.FOS.05.T6",25.2,1
+"TCD","Chari-Baguirmi / Hadjer-Lamis",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","CHD.B.FOS.05.T6",22.8,1
+"TCD","Guéra",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","CHD.B.FOS.05.T6",22.7,1
+"TCD","Kanem",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","CHD.B.FOS.05.T6",14.5,1
+"TCD","Lac",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","CHD.B.FOS.05.T6",12.6,1
+"TCD","Logone Occidental",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","CHD.B.FOS.05.T6",25.9,1
+"TCD","Logone Oriental",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","CHD.B.FOS.05.T6",27.3,1
+"TCD","Moyen-Chari and Mandoul",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","CHD.B.FOS.05.T6",31.6,1
+"TCD","Mayo-Kebbi Est and Ouest",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","CHD.B.FOS.05.T6",30,1
+"TCD","Ouaddaï",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","CHD.B.FOS.05.T6",44.9,1
+"TCD","Salamat",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","CHD.B.FOS.05.T6",27.9,1
+"TCD","Tandjilé",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","CHD.B.FOS.05.T6",24.9,1
+"TCD","Wadi Fira",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","CHD.B.FOS.05.T6",25.5,1
+"TCD",NA,NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","CHD.B.FOS.05.T6",25,1
+"DRC","Bandundu",NA,"2007-2008","http://nada.vam.wfp.org/index.php/catalog/15","CHD.B.FOS.05.T6",25.5910800644815,1
+"DRC","Bas Congo ",NA,"2007-2008","http://nada.vam.wfp.org/index.php/catalog/15","CHD.B.FOS.05.T6",30.2808590984187,1
+"DRC","Equateur",NA,"2007-2008","http://nada.vam.wfp.org/index.php/catalog/15","CHD.B.FOS.05.T6",25.290740468129,1
+"DRC","Province Orientale",NA,"2007-2008","http://nada.vam.wfp.org/index.php/catalog/15","CHD.B.FOS.05.T6",31.6878550175818,1
+"DRC","Kasai Oriental",NA,"2007-2008","http://nada.vam.wfp.org/index.php/catalog/15","CHD.B.FOS.05.T6",34.1878545913007,1
+"DRC","Kasai Occidental",NA,"2007-2008","http://nada.vam.wfp.org/index.php/catalog/15","CHD.B.FOS.05.T6",17.2894782159463,1
+"DRC","Katanga",NA,"2007-2008","http://nada.vam.wfp.org/index.php/catalog/15","CHD.B.FOS.05.T6",35.2003312972357,1
+"DRC","Maniema",NA,"2007-2008","http://nada.vam.wfp.org/index.php/catalog/15","CHD.B.FOS.05.T6",51.8186905428092,1
+"DRC","Nord Kivu",NA,"2007-2008","http://nada.vam.wfp.org/index.php/catalog/15","CHD.B.FOS.05.T6",30.5882352941176,1
+"DRC","Sud Kivu",NA,"2007-2008","http://nada.vam.wfp.org/index.php/catalog/15","CHD.B.FOS.05.T6",33.1071913161465,1
+"DRC",NA,NA,"2007-2008","http://nada.vam.wfp.org/index.php/catalog/15","CHD.B.FOS.05.T6",30.0163757360371,1
+"ETH","Tigray",NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","CHD.B.FOS.05.T6",12.8215543398298,1
+"ETH","Afar",NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","CHD.B.FOS.05.T6",4.60904221102828,1
+"ETH","Amhara",NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","CHD.B.FOS.05.T6",9.05791831845075,1
+"ETH","Oromia",NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","CHD.B.FOS.05.T6",14.1104765864506,1
+"ETH","Somali",NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","CHD.B.FOS.05.T6",9.81500731015099,1
+"ETH","Benishangul Gamuz",NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","CHD.B.FOS.05.T6",15.1324971284686,1
+"ETH","SNNPR",NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","CHD.B.FOS.05.T6",32.1770841820571,1
+"ETH","Gambela",NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","CHD.B.FOS.05.T6",21.5596931004542,1
+"ETH","Harari",NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","CHD.B.FOS.05.T6",9.17952266965351,1
+"ETH","Addis Ababa",NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","CHD.B.FOS.05.T6",22.5941512392985,1
+"ETH","Dire Dawa",NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","CHD.B.FOS.05.T6",10.7536719894838,1
+"ETH",NA,NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","CHD.B.FOS.05.T6",16.5710969789488,1
+"GHA","Western Rural",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","CHD.B.FOS.05.T6",0.8,1
+"GHA","Central Rural",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","CHD.B.FOS.05.T6",2,1
+"GHA","Greater Accra Rural",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","CHD.B.FOS.05.T6",1.4,1
+"GHA","Volta Rural",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","CHD.B.FOS.05.T6",1.6,1
+"GHA","Eastern Rural ",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","CHD.B.FOS.05.T6",2.8,1
+"GHA","Ashanti Rural",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","CHD.B.FOS.05.T6",6.4,1
+"GHA","Brong Ahafo Rural",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","CHD.B.FOS.05.T6",1.7,1
+"GHA","Northen Rural",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","CHD.B.FOS.05.T6",6.3,1
+"GHA","Upper East Rural",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","CHD.B.FOS.05.T6",9.5,1
+"GHA","Upper West Rural",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","CHD.B.FOS.05.T6",22.7,1
+"GHA","Urban (Accra)",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","CHD.B.FOS.05.T6",1.2,1
+"GHA","Urban (Other)",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","CHD.B.FOS.05.T6",3.3,1
+"GHA",NA,NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","CHD.B.FOS.05.T6",3.8,1
+"GNQ","Boke",NA,"2009",NA,"CHD.B.FOS.05.T6",9.1,1
+"GNQ","Faranah",NA,"2009",NA,"CHD.B.FOS.05.T6",20.2,1
+"GNQ","Kankan",NA,"2009",NA,"CHD.B.FOS.05.T6",19.5,1
+"GNQ","Kindia",NA,"2009",NA,"CHD.B.FOS.05.T6",17.1,1
+"GNQ","Labe",NA,"2009",NA,"CHD.B.FOS.05.T6",27.6,1
+"GNQ","Mamou",NA,"2009",NA,"CHD.B.FOS.05.T6",28.5,1
+"GNQ","N'Zerekore",NA,"2009",NA,"CHD.B.FOS.05.T6",35.8,1
+"GNQ",NA,NA,"2009",NA,"CHD.B.FOS.05.T6",23.7,1
+"HTI","Nord-Ouest",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/18","CHD.B.FOS.05.T6",30.5,1
+"HTI","Nord",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/18","CHD.B.FOS.05.T6",25.7,1
+"HTI","Nord-Est",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/18","CHD.B.FOS.05.T6",27,1
+"HTI","Artibonite",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/18","CHD.B.FOS.05.T6",20,1
+"HTI","Centre",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/18","CHD.B.FOS.05.T6",15.4,1
+"HTI","Ouest",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/18","CHD.B.FOS.05.T6",16.2,1
+"HTI","Grande-Anse",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/18","CHD.B.FOS.05.T6",25.4,1
+"HTI","Nippes",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/18","CHD.B.FOS.05.T6",7.9,1
+"HTI","Sud",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/18","CHD.B.FOS.05.T6",12,1
+"HTI","Sud-Est",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/18","CHD.B.FOS.05.T6",14.7,1
+"HTI",NA,NA,"2007","http://nada.vam.wfp.org/index.php/catalog/18","CHD.B.FOS.05.T6",19.1,1
+"LAO","Phongsaly",NA,"2006",NA,"CHD.B.FOS.05.T6",14,1
+"LAO","Luangnamtha",NA,"2006",NA,"CHD.B.FOS.05.T6",15,1
+"LAO","Oudomxay",NA,"2006",NA,"CHD.B.FOS.05.T6",15,1
+"LAO","Luangprabang",NA,"2006",NA,"CHD.B.FOS.05.T6",14,1
+"LAO","Huapanh",NA,"2006",NA,"CHD.B.FOS.05.T6",19,1
+"LAO","Bokeo",NA,"2006",NA,"CHD.B.FOS.05.T6",30,1
+"LAO","Xayabury",NA,"2006",NA,"CHD.B.FOS.05.T6",9,1
+"LAO","Xiengkhuang",NA,"2006",NA,"CHD.B.FOS.05.T6",22,1
+"LAO","Vientiane",NA,"2006",NA,"CHD.B.FOS.05.T6",4,1
+"LAO","Bolikhamxay",NA,"2006",NA,"CHD.B.FOS.05.T6",3,1
+"LAO","Khammouane",NA,"2006",NA,"CHD.B.FOS.05.T6",9,1
+"LAO","Savannakhet",NA,"2006",NA,"CHD.B.FOS.05.T6",3,1
+"LAO","Saravane",NA,"2006",NA,"CHD.B.FOS.05.T6",26,1
+"LAO","Sekong",NA,"2006",NA,"CHD.B.FOS.05.T6",14,1
+"LAO","Champassak",NA,"2006",NA,"CHD.B.FOS.05.T6",1,1
+"LAO","Attapeu",NA,"2006",NA,"CHD.B.FOS.05.T6",8,1
+"LAO",NA,NA,"2006",NA,"CHD.B.FOS.05.T6",11,1
+"MDG",NA,NA,"2010","http://nada.vam.wfp.org/index.php/catalog/4","CHD.B.FOS.05.T6",41.2,1
+"MOZ","Cabo Delgado",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/26","CHD.B.FOS.05.T6",17,1
+"MOZ","Gaza",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/26","CHD.B.FOS.05.T6",35,1
+"MOZ","Inhambane",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/26","CHD.B.FOS.05.T6",34,1
+"MOZ","Manica",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/26","CHD.B.FOS.05.T6",28,1
+"MOZ","Maputo",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/26","CHD.B.FOS.05.T6",12,1
+"MOZ","Nampula",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/26","CHD.B.FOS.05.T6",12,1
+"MOZ","Niassa",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/26","CHD.B.FOS.05.T6",28,1
+"MOZ","Sofala",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/26","CHD.B.FOS.05.T6",20,1
+"MOZ","Tete",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/26","CHD.B.FOS.05.T6",23,1
+"MOZ","Zambezia",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/26","CHD.B.FOS.05.T6",14,1
+"MOZ",NA,NA,"2009","http://nada.vam.wfp.org/index.php/catalog/26","CHD.B.FOS.05.T6",18.3,1
+"RWA","Nyanza",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","CHD.B.FOS.05.T6",9.6,1
+"RWA","Gisagara",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","CHD.B.FOS.05.T6",12.6,1
+"RWA","Nyaruguru-Nyamagabe",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","CHD.B.FOS.05.T6",22.9,1
+"RWA","Huye",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","CHD.B.FOS.05.T6",15.5,1
+"RWA","Ruhango-Muhanga-Kamonyi",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","CHD.B.FOS.05.T6",17.1,1
+"RWA","Karongi-Rutsiro",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","CHD.B.FOS.05.T6",22.9,1
+"RWA","Rubavu",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","CHD.B.FOS.05.T6",14,1
+"RWA","Nyabihu",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","CHD.B.FOS.05.T6",28.5,1
+"RWA","Ngororero",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","CHD.B.FOS.05.T6",25.3,1
+"RWA","Rusizi-Nyamasheke",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","CHD.B.FOS.05.T6",28.1,1
+"RWA","Gakenke",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","CHD.B.FOS.05.T6",12.4,1
+"RWA","Musanze-Burera",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","CHD.B.FOS.05.T6",17.7,1
+"RWA","Rurindo-Gicumbi",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","CHD.B.FOS.05.T6",12.1,1
+"RWA","Nyagatare-Gatsibo-Kayonza",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","CHD.B.FOS.05.T6",9.6,1
+"RWA","Kirehe-Ngoma-Rwamagana",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","CHD.B.FOS.05.T6",11.9,1
+"RWA","Bugesera",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","CHD.B.FOS.05.T6",17.9,1
+"RWA",NA,NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","CHD.B.FOS.05.T6",17.3,1
+"RWA","Kigali",NA,"2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.05.T6",3,1
+"RWA","South",NA,"2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.05.T6",18,1
+"RWA","West",NA,"2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.05.T6",29,1
+"RWA","North ",NA,"2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.05.T6",16,1
+"RWA","East",NA,"2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.05.T6",13,1
+"RWA","Kigali","Nyarugenge","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.05.T6",2,1
+"RWA","Kigali","Gasabo","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.05.T6",4,1
+"RWA","Kigali","Kicukiro","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.05.T6",4,1
+"RWA","South","Nyanza","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.05.T6",21,1
+"RWA","South","Gisagara","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.05.T6",16,1
+"RWA","South","Nyaruguru","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.05.T6",15,1
+"RWA","South","Huye","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.05.T6",8,1
+"RWA","South","Nyamagabe","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.05.T6",26,1
+"RWA","South","Ruhango","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.05.T6",18,1
+"RWA","South","Muhanga","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.05.T6",23,1
+"RWA","South","Kamonyi","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.05.T6",13,1
+"RWA","West","Karongi","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.05.T6",25,1
+"RWA","West","Rutsiro","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.05.T6",39,1
+"RWA","West","Rubavu","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.05.T6",22,1
+"RWA","West","Nyabihu","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.05.T6",13,1
+"RWA","West","Ngororero","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.05.T6",35,1
+"RWA","West","Rusizi","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.05.T6",41,1
+"RWA","West","Nyamasheke","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.05.T6",30,1
+"RWA","North","Rulindo","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.05.T6",23,1
+"RWA","North","Gakenke","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.05.T6",22,1
+"RWA","North","Musanze","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.05.T6",9,1
+"RWA","North","Burera","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.05.T6",19,1
+"RWA","North","Gicumbi","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.05.T6",12,1
+"RWA","East","Rwamagana","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.05.T6",7,1
+"RWA","East","Nyagatare","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.05.T6",2,1
+"RWA","East","Gatsibo","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.05.T6",24,1
+"RWA","East","Kayonza","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.05.T6",9,1
+"RWA","East","Kirehe","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.05.T6",11,1
+"RWA","East","Ngoma","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.05.T6",10,1
+"RWA","East","Bugesera","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.05.T6",23,1
+"RWA",NA,NA,"2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.05.T6",17,1
+"STP","Me-Zochi",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/23","CHD.B.FOS.05.T6",13,1
+"STP","Caue",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/23","CHD.B.FOS.05.T6",13,1
+"STP","Agua grande",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/23","CHD.B.FOS.05.T6",12.4,1
+"STP","R.A. Principe",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/23","CHD.B.FOS.05.T6",15.4,1
+"STP","Lemba",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/23","CHD.B.FOS.05.T6",12,1
+"STP","Cantagalo",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/23","CHD.B.FOS.05.T6",11.8,1
+"STP","Lobata",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/23","CHD.B.FOS.05.T6",10.9,1
+"STP",NA,NA,"2007","http://nada.vam.wfp.org/index.php/catalog/23","CHD.B.FOS.05.T6",12.6,1
+"SLE","Kailahun",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","CHD.B.FOS.05.T6",17.3,1
+"SLE","Kenema",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","CHD.B.FOS.05.T6",31.9,1
+"SLE","Kono",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","CHD.B.FOS.05.T6",39.7,1
+"SLE","Bombali",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","CHD.B.FOS.05.T6",23.4,1
+"SLE","Kambia",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","CHD.B.FOS.05.T6",66.7,1
+"SLE","Koinadugu",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","CHD.B.FOS.05.T6",52.3,1
+"SLE","Port Loko",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","CHD.B.FOS.05.T6",65.6,1
+"SLE","Tonkolili",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","CHD.B.FOS.05.T6",51.6,1
+"SLE","Bo",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","CHD.B.FOS.05.T6",31.1,1
+"SLE","Bonthe",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","CHD.B.FOS.05.T6",21.6,1
+"SLE","Moyamba",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","CHD.B.FOS.05.T6",58,1
+"SLE","Pujehun",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","CHD.B.FOS.05.T6",73.1,1
+"SLE","Western Area Rural",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","CHD.B.FOS.05.T6",20.7,1
+"SLE","Western Area Urban",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","CHD.B.FOS.05.T6",16.7,1
+"SLE","Western Area Slum",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","CHD.B.FOS.05.T6",34.3,1
+"SLE",NA,NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","CHD.B.FOS.05.T6",38.5,1
+"SLE","Bo",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","CHD.B.FOS.05.T6",23.7,1
+"SLE","Bomabali",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","CHD.B.FOS.05.T6",26,1
+"SLE","Bonthe",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","CHD.B.FOS.05.T6",47.7,1
+"SLE","Kailahun",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","CHD.B.FOS.05.T6",23.9,1
+"SLE","Kambia",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","CHD.B.FOS.05.T6",21.5,1
+"SLE","Kenema",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","CHD.B.FOS.05.T6",21.8,1
+"SLE","Koinadugu",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","CHD.B.FOS.05.T6",11.5,1
+"SLE","Kono",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","CHD.B.FOS.05.T6",14.9,1
+"SLE","Moyamba",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","CHD.B.FOS.05.T6",30,1
+"SLE","Port Loko",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","CHD.B.FOS.05.T6",35.6,1
+"SLE","Pujehun",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","CHD.B.FOS.05.T6",30,1
+"SLE","Tonkolili",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","CHD.B.FOS.05.T6",23.9,1
+"SLE","Western Area Rural",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","CHD.B.FOS.05.T6",37.6,1
+"SLE",NA,NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","CHD.B.FOS.05.T6",26.8,1
+"TZA","Arusha",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","CHD.B.FOS.05.T6",25,1
+"TZA","Dar es Salaam",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","CHD.B.FOS.05.T6",5.3,1
+"TZA","Dodoma",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","CHD.B.FOS.05.T6",37.8,1
+"TZA","Iringa",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","CHD.B.FOS.05.T6",13.1,1
+"TZA","Kagera",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","CHD.B.FOS.05.T6",10.6,1
+"TZA","Kigoma",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","CHD.B.FOS.05.T6",10.6,1
+"TZA","Kilimanjaro",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","CHD.B.FOS.05.T6",11.6,1
+"TZA","Lindi",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","CHD.B.FOS.05.T6",25.7,1
+"TZA","Manyara",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","CHD.B.FOS.05.T6",42.9,1
+"TZA","Mara",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","CHD.B.FOS.05.T6",18.5,1
+"TZA","Mbeya",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","CHD.B.FOS.05.T6",5.6,1
+"TZA","Morogoro",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","CHD.B.FOS.05.T6",33.8,1
+"TZA","Mtwara",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","CHD.B.FOS.05.T6",28.5,1
+"TZA","Mwanza",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","CHD.B.FOS.05.T6",16.8,1
+"TZA","Pwani",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","CHD.B.FOS.05.T6",21.7,1
+"TZA","Rukwa",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","CHD.B.FOS.05.T6",9.6,1
+"TZA","Ruvuma",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","CHD.B.FOS.05.T6",25.1,1
+"TZA","Shinyanga",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","CHD.B.FOS.05.T6",13.4,1
+"TZA","Singida",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","CHD.B.FOS.05.T6",25.5,1
+"TZA","Tabora",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","CHD.B.FOS.05.T6",11,1
+"TZA","Tanga",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","CHD.B.FOS.05.T6",8.9,1
+"TZA",NA,NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","CHD.B.FOS.05.T6",18.9,1
+"TZA","Singida",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.05.T6",27,1
+"TZA","Tabora",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.05.T6",26.2,1
+"TZA","Dodoma",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.05.T6",26.2,1
+"TZA","Kagera",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.05.T6",29.4,1
+"TZA","Manyara",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.05.T6",27,1
+"TZA","Mwanza",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.05.T6",35.7,1
+"TZA","Mtwara",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.05.T6",41.3,1
+"TZA","Kigoma",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.05.T6",32.5,1
+"TZA","Ruvuma",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.05.T6",21.4,1
+"TZA","Iringa",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.05.T6",37.3,1
+"TZA","Morogoro",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.05.T6",17.5,1
+"TZA","Lindi",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.05.T6",31.7,1
+"TZA","Arusha",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.05.T6",27,1
+"TZA","Mara",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.05.T6",31,1
+"TZA","Rukwa",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.05.T6",24.8,1
+"TZA","Tanga",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.05.T6",20.6,1
+"TZA","Zanzibar/Pemba",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.05.T6",23,1
+"TZA","Dar es Salaam",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.05.T6",38.9,1
+"TZA","Shinyanga",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.05.T6",23.8,1
+"TZA","Kilimanjaro",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.05.T6",12.7,1
+"TZA","Pwani",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.05.T6",27,1
+"TZA","Mbeya",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.05.T6",11.1,1
+"TZA",NA,NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.05.T6",27,1
+"YEM","Abyan",NA,"2011","not yet posted","CHD.B.FOS.05.T6",29.7,1
+"YEM","Ad Daleh",NA,"2011","not yet posted","CHD.B.FOS.05.T6",27.2,1
+"YEM","Aden",NA,"2011","not yet posted","CHD.B.FOS.05.T6",17.7,1
+"YEM","Al Bayda",NA,"2011","not yet posted","CHD.B.FOS.05.T6",15.5,1
+"YEM","Hudeida",NA,"2011","not yet posted","CHD.B.FOS.05.T6",17.4,1
+"YEM","Al Mahra",NA,"2011","not yet posted","CHD.B.FOS.05.T6",12.1,1
+"YEM","Al Mahweet",NA,"2011","not yet posted","CHD.B.FOS.05.T6",17.2,1
+"YEM","Amran",NA,"2011","not yet posted","CHD.B.FOS.05.T6",20.1,1
+"YEM","Dhamar",NA,"2011","not yet posted","CHD.B.FOS.05.T6",22,1
+"YEM","Hadramout",NA,"2011","not yet posted","CHD.B.FOS.05.T6",15.2,1
+"YEM","Hajjah",NA,"2011","not yet posted","CHD.B.FOS.05.T6",22.6,1
+"YEM","Ibb",NA,"2011","not yet posted","CHD.B.FOS.05.T6",27.4,1
+"YEM","Lahej",NA,"2011","not yet posted","CHD.B.FOS.05.T6",34.5,1
+"YEM","Mareb",NA,"2011","not yet posted","CHD.B.FOS.05.T6",23.1,1
+"YEM","Rayma",NA,"2011","not yet posted","CHD.B.FOS.05.T6",19.5,1
+"YEM","Sana'a",NA,"2011","not yet posted","CHD.B.FOS.05.T6",23.7,1
+"YEM","Sana'a City",NA,"2011","not yet posted","CHD.B.FOS.05.T6",19.9,1
+"YEM","Shabwa",NA,"2011","not yet posted","CHD.B.FOS.05.T6",27.5,1
+"YEM","Taiz",NA,"2011","not yet posted","CHD.B.FOS.05.T6",25.4,1
+"YEM",NA,NA,"2011","not yet posted","CHD.B.FOS.05.T6",22.3,1
+"YEM","Rayma",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","CHD.B.FOS.05.T6",28.4,1
+"YEM","Hajjah",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","CHD.B.FOS.05.T6",29.1,1
+"YEM","Ibb",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","CHD.B.FOS.05.T6",24,1
+"YEM","Ad Daleh",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","CHD.B.FOS.05.T6",24.3,1
+"YEM","Amran",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","CHD.B.FOS.05.T6",21.7,1
+"YEM","Al Mahweet",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","CHD.B.FOS.05.T6",24.2,1
+"YEM","Al Bayda",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","CHD.B.FOS.05.T6",25.6,1
+"YEM","Taiz",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","CHD.B.FOS.05.T6",20.5,1
+"YEM","Lahej",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","CHD.B.FOS.05.T6",22.5,1
+"YEM","Mareb",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","CHD.B.FOS.05.T6",25.6,1
+"YEM","Abyan",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","CHD.B.FOS.05.T6",25.3,1
+"YEM","Hudeida",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","CHD.B.FOS.05.T6",23.1,1
+"YEM","Shabwa",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","CHD.B.FOS.05.T6",16.9,1
+"YEM","Dhamar",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","CHD.B.FOS.05.T6",16.9,1
+"YEM","Sana'a",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","CHD.B.FOS.05.T6",12.6,1
+"YEM","Aden",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","CHD.B.FOS.05.T6",10.6,1
+"YEM","Al Mahra",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","CHD.B.FOS.05.T6",5.6,1
+"YEM","Hadramout",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","CHD.B.FOS.05.T6",7.7,1
+"YEM","Sana'a City",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","CHD.B.FOS.05.T6",7.2,1
+"YEM",NA,NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","CHD.B.FOS.05.T6",19.7,1
+"BEN","Alibori",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","CHD.B.FOS.06.T6",98.4329570311941,1
+"BEN","Atacora",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","CHD.B.FOS.06.T6",71.2657806608404,1
+"BEN","Atlantique",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","CHD.B.FOS.06.T6",96.9489366996657,1
+"BEN","Borgou",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","CHD.B.FOS.06.T6",89.1890735197786,1
+"BEN","Collines",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","CHD.B.FOS.06.T6",88.1245214125566,1
+"BEN","Couffo",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","CHD.B.FOS.06.T6",72.931420801099,1
+"BEN","Donga",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","CHD.B.FOS.06.T6",81.1985330241299,1
+"BEN","Littoral",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","CHD.B.FOS.06.T6",98.1593002240651,1
+"BEN","Mono",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","CHD.B.FOS.06.T6",66.5993420129227,1
+"BEN","Oueme",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","CHD.B.FOS.06.T6",91.5695729197867,1
+"BEN","Plateau",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","CHD.B.FOS.06.T6",97.861776351676,1
+"BEN","Zhou",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","CHD.B.FOS.06.T6",86.3981991990758,1
+"BEN",NA,NA,"2008","http://nada.vam.wfp.org/index.php/catalog/1","CHD.B.FOS.06.T6",87.8,1
+"BEN","Alibori",NA,"2013","Not yet posted","CHD.B.FOS.06.T6",84,1
+"BEN","Atacora",NA,"2013","Not yet posted","CHD.B.FOS.06.T6",52,1
+"BEN","Atlantique",NA,"2013","Not yet posted","CHD.B.FOS.06.T6",82,1
+"BEN","Borgou",NA,"2013","Not yet posted","CHD.B.FOS.06.T6",66,1
+"BEN","Collines",NA,"2013","Not yet posted","CHD.B.FOS.06.T6",73,1
+"BEN","Couffo",NA,"2013","Not yet posted","CHD.B.FOS.06.T6",53,1
+"BEN","Donga",NA,"2013","Not yet posted","CHD.B.FOS.06.T6",75,1
+"BEN","Littoral",NA,"2013","Not yet posted","CHD.B.FOS.06.T6",96,1
+"BEN","Mono",NA,"2013","Not yet posted","CHD.B.FOS.06.T6",51,1
+"BEN","Oueme",NA,"2013","Not yet posted","CHD.B.FOS.06.T6",88,1
+"BEN","Plateau",NA,"2013","Not yet posted","CHD.B.FOS.06.T6",92,1
+"BEN","Zhou",NA,"2013","Not yet posted","CHD.B.FOS.06.T6",77,1
+"BEN","Cotonou ",NA,"2013","Not yet posted","CHD.B.FOS.06.T6",96,1
+"BEN",NA,NA,"2013","Not yet posted","CHD.B.FOS.06.T6",77,1
+"BDI","Muyinga",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","CHD.B.FOS.06.T6",68.7,1
+"BDI","Kirundo",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","CHD.B.FOS.06.T6",75,1
+"BDI","Cibitoke",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","CHD.B.FOS.06.T6",63.7,1
+"BDI","Ngozi",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","CHD.B.FOS.06.T6",58.7,1
+"BDI","Kayanza",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","CHD.B.FOS.06.T6",69,1
+"BDI","Cankuzo",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","CHD.B.FOS.06.T6",66,1
+"BDI","Karuzi",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","CHD.B.FOS.06.T6",59,1
+"BDI","Bubanza",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","CHD.B.FOS.06.T6",69.7,1
+"BDI","Gitega",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","CHD.B.FOS.06.T6",77.9,1
+"BDI","Muramvya",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","CHD.B.FOS.06.T6",81.8,1
+"BDI","Ruyigi",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","CHD.B.FOS.06.T6",74.9,1
+"BDI","Bujumbura Rural",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","CHD.B.FOS.06.T6",69.9,1
+"BDI","Mwaro",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","CHD.B.FOS.06.T6",71.7,1
+"BDI","Bururi",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","CHD.B.FOS.06.T6",90.2,1
+"BDI","Rutana",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","CHD.B.FOS.06.T6",80.7,1
+"BDI","Makamba",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","CHD.B.FOS.06.T6",92.3,1
+"BDI",NA,NA,"2008","http://nada.vam.wfp.org/index.php/catalog/45","CHD.B.FOS.06.T6",72.3,1
+"CMR","Extreme-Nord",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/35","CHD.B.FOS.06.T6",90,1
+"CMR","Nord",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/35","CHD.B.FOS.06.T6",91,1
+"CMR","Adamaoua",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/35","CHD.B.FOS.06.T6",76,1
+"CMR","Nord-Ouest",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/35","CHD.B.FOS.06.T6",59,1
+"CMR","Sud-Ouest",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/35","CHD.B.FOS.06.T6",76,1
+"CMR","Ouest",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/35","CHD.B.FOS.06.T6",74,1
+"CMR","Centre",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/35","CHD.B.FOS.06.T6",48,1
+"CMR","Est",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/35","CHD.B.FOS.06.T6",65,1
+"CMR","Littoral",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/35","CHD.B.FOS.06.T6",73,1
+"CMR","Sud",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/35","CHD.B.FOS.06.T6",75,1
+"CMR",NA,NA,"2007","http://nada.vam.wfp.org/index.php/catalog/35","CHD.B.FOS.06.T6",74,1
+"TCD","Batha",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","CHD.B.FOS.06.T6",37.4,1
+"TCD","Chari-Baguirmi / Hadjer-Lamis",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","CHD.B.FOS.06.T6",53.3,1
+"TCD","Guéra",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","CHD.B.FOS.06.T6",66.9,1
+"TCD","Kanem",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","CHD.B.FOS.06.T6",65.2,1
+"TCD","Lac",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","CHD.B.FOS.06.T6",72.2,1
+"TCD","Logone Occidental",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","CHD.B.FOS.06.T6",63.2,1
+"TCD","Logone Oriental",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","CHD.B.FOS.06.T6",63.4,1
+"TCD","Moyen-Chari and Mandoul",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","CHD.B.FOS.06.T6",50.3,1
+"TCD","Mayo-Kebbi Est and Ouest",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","CHD.B.FOS.06.T6",46.6,1
+"TCD","Ouaddaï",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","CHD.B.FOS.06.T6",47.8,1
+"TCD","Salamat",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","CHD.B.FOS.06.T6",52.5,1
+"TCD","Tandjilé",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","CHD.B.FOS.06.T6",56.7,1
+"TCD","Wadi Fira",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","CHD.B.FOS.06.T6",55,1
+"TCD",NA,NA,"2009","http://nada.vam.wfp.org/index.php/catalog/14","CHD.B.FOS.06.T6",58.6,1
+"DRC","Bandundu",NA,"2007-2008","http://nada.vam.wfp.org/index.php/catalog/15","CHD.B.FOS.06.T6",68.3100483610962,1
+"DRC","Bas Congo ",NA,"2007-2008","http://nada.vam.wfp.org/index.php/catalog/15","CHD.B.FOS.06.T6",62.8274722681142,1
+"DRC","Equateur",NA,"2007-2008","http://nada.vam.wfp.org/index.php/catalog/15","CHD.B.FOS.06.T6",72.6041513322538,1
+"DRC","Province Orientale",NA,"2007-2008","http://nada.vam.wfp.org/index.php/catalog/15","CHD.B.FOS.06.T6",62.9158777387071,1
+"DRC","Kasai Oriental",NA,"2007-2008","http://nada.vam.wfp.org/index.php/catalog/15","CHD.B.FOS.06.T6",58.7098129859214,1
+"DRC","Kasai Occidental",NA,"2007-2008","http://nada.vam.wfp.org/index.php/catalog/15","CHD.B.FOS.06.T6",81.711727225762,1
+"DRC","Katanga",NA,"2007-2008","http://nada.vam.wfp.org/index.php/catalog/15","CHD.B.FOS.06.T6",53.4113262242468,1
+"DRC","Maniema",NA,"2007-2008","http://nada.vam.wfp.org/index.php/catalog/15","CHD.B.FOS.06.T6",43.7045327364298,1
+"DRC","Nord Kivu",NA,"2007-2008","http://nada.vam.wfp.org/index.php/catalog/15","CHD.B.FOS.06.T6",63.8235294117647,1
+"DRC","Sud Kivu",NA,"2007-2008","http://nada.vam.wfp.org/index.php/catalog/15","CHD.B.FOS.06.T6",55.2012663952962,1
+"DRC",NA,NA,"2007-2008","http://nada.vam.wfp.org/index.php/catalog/15","CHD.B.FOS.06.T6",63.5970872095049,1
+"ETH","Tigray",NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","CHD.B.FOS.06.T6",84.5666492324719,1
+"ETH","Afar",NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","CHD.B.FOS.06.T6",94.2870924621852,1
+"ETH","Amhara",NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","CHD.B.FOS.06.T6",88.963949404344,1
+"ETH","Oromia",NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","CHD.B.FOS.06.T6",80.2064569045113,1
+"ETH","Somali",NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","CHD.B.FOS.06.T6",83.6117908436771,1
+"ETH","Benishangul Gamuz",NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","CHD.B.FOS.06.T6",83.2261736053226,1
+"ETH","SNNPR",NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","CHD.B.FOS.06.T6",37.2296967859945,1
+"ETH","Gambela",NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","CHD.B.FOS.06.T6",71.6048454826269,1
+"ETH","Harari",NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","CHD.B.FOS.06.T6",90.5682686980848,1
+"ETH","Addis Ababa",NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","CHD.B.FOS.06.T6",69.4259491816723,1
+"ETH","Dire Dawa",NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","CHD.B.FOS.06.T6",88.8758519374361,1
+"ETH",NA,NA,"2011","http://catalog.ihsn.org/index.php/catalog/3124","CHD.B.FOS.06.T6",73.9092646259857,1
+"GHA","Western Rural",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","CHD.B.FOS.06.T6",99.2,1
+"GHA","Central Rural",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","CHD.B.FOS.06.T6",96.5,1
+"GHA","Greater Accra Rural",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","CHD.B.FOS.06.T6",98.6,1
+"GHA","Volta Rural",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","CHD.B.FOS.06.T6",96.8,1
+"GHA","Eastern Rural ",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","CHD.B.FOS.06.T6",96.1,1
+"GHA","Ashanti Rural",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","CHD.B.FOS.06.T6",92.8,1
+"GHA","Brong Ahafo Rural",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","CHD.B.FOS.06.T6",96.6,1
+"GHA","Northen Rural",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","CHD.B.FOS.06.T6",90.4,1
+"GHA","Upper East Rural",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","CHD.B.FOS.06.T6",84.8,1
+"GHA","Upper West Rural",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","CHD.B.FOS.06.T6",66,1
+"GHA","Urban (Accra)",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","CHD.B.FOS.06.T6",98,1
+"GHA","Urban (Other)",NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","CHD.B.FOS.06.T6",95.7,1
+"GHA",NA,NA,"2008","http://nada.vam.wfp.org/index.php/catalog/40","CHD.B.FOS.06.T6",94.6,1
+"GNQ","Boke",NA,"2009",NA,"CHD.B.FOS.06.T6",88.5,1
+"GNQ","Faranah",NA,"2009",NA,"CHD.B.FOS.06.T6",75.3,1
+"GNQ","Kankan",NA,"2009",NA,"CHD.B.FOS.06.T6",76.4,1
+"GNQ","Kindia",NA,"2009",NA,"CHD.B.FOS.06.T6",72.7,1
+"GNQ","Labe",NA,"2009",NA,"CHD.B.FOS.06.T6",62,1
+"GNQ","Mamou",NA,"2009",NA,"CHD.B.FOS.06.T6",68.7,1
+"GNQ","N'Zerekore",NA,"2009",NA,"CHD.B.FOS.06.T6",47.3,1
+"GNQ",NA,NA,"2009",NA,"CHD.B.FOS.06.T6",67.9,1
+"HTI","Nord-Ouest",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/18","CHD.B.FOS.06.T6",57.7,1
+"HTI","Nord",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/18","CHD.B.FOS.06.T6",62.1,1
+"HTI","Nord-Est",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/18","CHD.B.FOS.06.T6",64.6,1
+"HTI","Artibonite",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/18","CHD.B.FOS.06.T6",74.3,1
+"HTI","Centre",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/18","CHD.B.FOS.06.T6",81.7,1
+"HTI","Ouest",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/18","CHD.B.FOS.06.T6",80.1,1
+"HTI","Grande-Anse",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/18","CHD.B.FOS.06.T6",68.6,1
+"HTI","Nippes",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/18","CHD.B.FOS.06.T6",89.3,1
+"HTI","Sud",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/18","CHD.B.FOS.06.T6",84.2,1
+"HTI","Sud-Est",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/18","CHD.B.FOS.06.T6",80.7,1
+"HTI",NA,NA,"2007","http://nada.vam.wfp.org/index.php/catalog/18","CHD.B.FOS.06.T6",75,1
+"LAO","Phongsaly",NA,"2006",NA,"CHD.B.FOS.06.T6",82,1
+"LAO","Luangnamtha",NA,"2006",NA,"CHD.B.FOS.06.T6",83,1
+"LAO","Oudomxay",NA,"2006",NA,"CHD.B.FOS.06.T6",81,1
+"LAO","Luangprabang",NA,"2006",NA,"CHD.B.FOS.06.T6",84,1
+"LAO","Huapanh",NA,"2006",NA,"CHD.B.FOS.06.T6",79,1
+"LAO","Bokeo",NA,"2006",NA,"CHD.B.FOS.06.T6",59,1
+"LAO","Xayabury",NA,"2006",NA,"CHD.B.FOS.06.T6",90,1
+"LAO","Xiengkhuang",NA,"2006",NA,"CHD.B.FOS.06.T6",75,1
+"LAO","Vientiane",NA,"2006",NA,"CHD.B.FOS.06.T6",96,1
+"LAO","Bolikhamxay",NA,"2006",NA,"CHD.B.FOS.06.T6",96,1
+"LAO","Khammouane",NA,"2006",NA,"CHD.B.FOS.06.T6",90,1
+"LAO","Savannakhet",NA,"2006",NA,"CHD.B.FOS.06.T6",96,1
+"LAO","Saravane",NA,"2006",NA,"CHD.B.FOS.06.T6",70,1
+"LAO","Sekong",NA,"2006",NA,"CHD.B.FOS.06.T6",76,1
+"LAO","Champassak",NA,"2006",NA,"CHD.B.FOS.06.T6",99,1
+"LAO","Attapeu",NA,"2006",NA,"CHD.B.FOS.06.T6",91,1
+"LAO",NA,NA,"2006",NA,"CHD.B.FOS.06.T6",87,1
+"MDG",NA,NA,"2010","http://nada.vam.wfp.org/index.php/catalog/4","CHD.B.FOS.06.T6",46.9,1
+"MOZ","Cabo Delgado",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/26","CHD.B.FOS.06.T6",68,1
+"MOZ","Gaza",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/26","CHD.B.FOS.06.T6",47,1
+"MOZ","Inhambane",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/26","CHD.B.FOS.06.T6",57,1
+"MOZ","Manica",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/26","CHD.B.FOS.06.T6",57,1
+"MOZ","Maputo",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/26","CHD.B.FOS.06.T6",82,1
+"MOZ","Nampula",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/26","CHD.B.FOS.06.T6",85,1
+"MOZ","Niassa",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/26","CHD.B.FOS.06.T6",68,1
+"MOZ","Sofala",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/26","CHD.B.FOS.06.T6",77,1
+"MOZ","Tete",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/26","CHD.B.FOS.06.T6",66,1
+"MOZ","Zambezia",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/26","CHD.B.FOS.06.T6",74,1
+"MOZ",NA,NA,"2009","http://nada.vam.wfp.org/index.php/catalog/26","CHD.B.FOS.06.T6",72.6,1
+"RWA","Nyanza",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","CHD.B.FOS.06.T6",88,1
+"RWA","Gisagara",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","CHD.B.FOS.06.T6",85.9,1
+"RWA","Nyaruguru-Nyamagabe",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","CHD.B.FOS.06.T6",68.6,1
+"RWA","Huye",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","CHD.B.FOS.06.T6",81.1,1
+"RWA","Ruhango-Muhanga-Kamonyi",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","CHD.B.FOS.06.T6",77.4,1
+"RWA","Karongi-Rutsiro",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","CHD.B.FOS.06.T6",71.6,1
+"RWA","Rubavu",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","CHD.B.FOS.06.T6",83.3,1
+"RWA","Nyabihu",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","CHD.B.FOS.06.T6",61.9,1
+"RWA","Ngororero",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","CHD.B.FOS.06.T6",65.1,1
+"RWA","Rusizi-Nyamasheke",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","CHD.B.FOS.06.T6",67.4,1
+"RWA","Gakenke",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","CHD.B.FOS.06.T6",84.3,1
+"RWA","Musanze-Burera",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","CHD.B.FOS.06.T6",78.7,1
+"RWA","Rurindo-Gicumbi",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","CHD.B.FOS.06.T6",86.7,1
+"RWA","Nyagatare-Gatsibo-Kayonza",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","CHD.B.FOS.06.T6",90.1,1
+"RWA","Kirehe-Ngoma-Rwamagana",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","CHD.B.FOS.06.T6",87,1
+"RWA","Bugesera",NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","CHD.B.FOS.06.T6",77.1,1
+"RWA",NA,NA,"2009","http://nada.vam.wfp.org/index.php/catalog/39","CHD.B.FOS.06.T6",78.5,1
+"RWA","Kigali",NA,"2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.06.T6",93,1
+"RWA","South",NA,"2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.06.T6",79,1
+"RWA","West",NA,"2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.06.T6",62,1
+"RWA","North ",NA,"2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.06.T6",81,1
+"RWA","East",NA,"2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.06.T6",86,1
+"RWA","Kigali","Nyarugenge","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.06.T6",98,1
+"RWA","Kigali","Gasabo","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.06.T6",90,1
+"RWA","Kigali","Kicukiro","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.06.T6",95,1
+"RWA","South","Nyanza","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.06.T6",76,1
+"RWA","South","Gisagara","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.06.T6",83,1
+"RWA","South","Nyaruguru","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.06.T6",78,1
+"RWA","South","Huye","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.06.T6",92,1
+"RWA","South","Nyamagabe","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.06.T6",68,1
+"RWA","South","Ruhango","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.06.T6",77,1
+"RWA","South","Muhanga","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.06.T6",74,1
+"RWA","South","Kamonyi","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.06.T6",86,1
+"RWA","West","Karongi","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.06.T6",63,1
+"RWA","West","Rutsiro","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.06.T6",47,1
+"RWA","West","Rubavu","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.06.T6",72,1
+"RWA","West","Nyabihu","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.06.T6",82,1
+"RWA","West","Ngororero","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.06.T6",56,1
+"RWA","West","Rusizi","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.06.T6",54,1
+"RWA","West","Nyamasheke","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.06.T6",63,1
+"RWA","North","Rulindo","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.06.T6",75,1
+"RWA","North","Gakenke","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.06.T6",76,1
+"RWA","North","Musanze","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.06.T6",88,1
+"RWA","North","Burera","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.06.T6",74,1
+"RWA","North","Gicumbi","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.06.T6",87,1
+"RWA","East","Rwamagana","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.06.T6",92,1
+"RWA","East","Nyagatare","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.06.T6",98,1
+"RWA","East","Gatsibo","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.06.T6",74,1
+"RWA","East","Kayonza","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.06.T6",91,1
+"RWA","East","Kirehe","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.06.T6",88,1
+"RWA","East","Ngoma","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.06.T6",88,1
+"RWA","East","Bugesera","2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.06.T6",76,1
+"RWA",NA,NA,"2012","http://nada.vam.wfp.org/index.php/catalog/47","CHD.B.FOS.06.T6",79,1
+"STP","Me-Zochi",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/23","CHD.B.FOS.06.T6",68.5,1
+"STP","Caue",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/23","CHD.B.FOS.06.T6",68.5,1
+"STP","Agua grande",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/23","CHD.B.FOS.06.T6",72.4,1
+"STP","R.A. Principe",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/23","CHD.B.FOS.06.T6",74.4,1
+"STP","Lemba",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/23","CHD.B.FOS.06.T6",78.7,1
+"STP","Cantagalo",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/23","CHD.B.FOS.06.T6",84.5,1
+"STP","Lobata",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/23","CHD.B.FOS.06.T6",85.5,1
+"STP",NA,NA,"2007","http://nada.vam.wfp.org/index.php/catalog/23","CHD.B.FOS.06.T6",77.2,1
+"SLE","Kailahun",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","CHD.B.FOS.06.T6",79,1
+"SLE","Kenema",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","CHD.B.FOS.06.T6",66.2,1
+"SLE","Kono",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","CHD.B.FOS.06.T6",52.4,1
+"SLE","Bombali",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","CHD.B.FOS.06.T6",74.5,1
+"SLE","Kambia",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","CHD.B.FOS.06.T6",29,1
+"SLE","Koinadugu",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","CHD.B.FOS.06.T6",34.3,1
+"SLE","Port Loko",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","CHD.B.FOS.06.T6",29.4,1
+"SLE","Tonkolili",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","CHD.B.FOS.06.T6",25.9,1
+"SLE","Bo",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","CHD.B.FOS.06.T6",68,1
+"SLE","Bonthe",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","CHD.B.FOS.06.T6",77.3,1
+"SLE","Moyamba",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","CHD.B.FOS.06.T6",24.1,1
+"SLE","Pujehun",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","CHD.B.FOS.06.T6",20.1,1
+"SLE","Western Area Rural",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","CHD.B.FOS.06.T6",78,1
+"SLE","Western Area Urban",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","CHD.B.FOS.06.T6",77,1
+"SLE","Western Area Slum",NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","CHD.B.FOS.06.T6",62.7,1
+"SLE",NA,NA,"2010","http://nada.vam.wfp.org/index.php/catalog/24","CHD.B.FOS.06.T6",55,1
+"SLE","Bo",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","CHD.B.FOS.06.T6",73.8,1
+"SLE","Bomabali",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","CHD.B.FOS.06.T6",70.7,1
+"SLE","Bonthe",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","CHD.B.FOS.06.T6",43.8,1
+"SLE","Kailahun",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","CHD.B.FOS.06.T6",75.4,1
+"SLE","Kambia",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","CHD.B.FOS.06.T6",77.8,1
+"SLE","Kenema",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","CHD.B.FOS.06.T6",76.6,1
+"SLE","Koinadugu",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","CHD.B.FOS.06.T6",87.2,1
+"SLE","Kono",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","CHD.B.FOS.06.T6",84,1
+"SLE","Moyamba",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","CHD.B.FOS.06.T6",69.3,1
+"SLE","Port Loko",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","CHD.B.FOS.06.T6",62,1
+"SLE","Pujehun",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","CHD.B.FOS.06.T6",68.4,1
+"SLE","Tonkolili",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","CHD.B.FOS.06.T6",73.6,1
+"SLE","Western Area Rural",NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","CHD.B.FOS.06.T6",57.9,1
+"SLE",NA,NA,"2007","http://nada.vam.wfp.org/index.php/catalog/33","CHD.B.FOS.06.T6",70.8,1
+"TZA","Arusha",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","CHD.B.FOS.06.T6",68.2,1
+"TZA","Dar es Salaam",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","CHD.B.FOS.06.T6",94.2,1
+"TZA","Dodoma",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","CHD.B.FOS.06.T6",58.9,1
+"TZA","Iringa",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","CHD.B.FOS.06.T6",85.4,1
+"TZA","Kagera",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","CHD.B.FOS.06.T6",85.1,1
+"TZA","Kigoma",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","CHD.B.FOS.06.T6",88.9,1
+"TZA","Kilimanjaro",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","CHD.B.FOS.06.T6",85.7,1
+"TZA","Lindi",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","CHD.B.FOS.06.T6",69,1
+"TZA","Manyara",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","CHD.B.FOS.06.T6",39.6,1
+"TZA","Mara",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","CHD.B.FOS.06.T6",80.6,1
+"TZA","Mbeya",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","CHD.B.FOS.06.T6",94.4,1
+"TZA","Morogoro",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","CHD.B.FOS.06.T6",61.4,1
+"TZA","Mtwara",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","CHD.B.FOS.06.T6",51.4,1
+"TZA","Mwanza",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","CHD.B.FOS.06.T6",79.2,1
+"TZA","Pwani",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","CHD.B.FOS.06.T6",76.9,1
+"TZA","Rukwa",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","CHD.B.FOS.06.T6",89.1,1
+"TZA","Ruvuma",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","CHD.B.FOS.06.T6",72.9,1
+"TZA","Shinyanga",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","CHD.B.FOS.06.T6",82.8,1
+"TZA","Singida",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","CHD.B.FOS.06.T6",69.1,1
+"TZA","Tabora",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","CHD.B.FOS.06.T6",86.6,1
+"TZA","Tanga",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","CHD.B.FOS.06.T6",90.2,1
+"TZA",NA,NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/2","CHD.B.FOS.06.T6",77,1
+"TZA","Singida",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.06.T6",11.1,1
+"TZA","Tabora",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.06.T6",10.5,1
+"TZA","Dodoma",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.06.T6",26.2,1
+"TZA","Kagera",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.06.T6",54.7,1
+"TZA","Manyara",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.06.T6",51.6,1
+"TZA","Mwanza",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.06.T6",38.1,1
+"TZA","Mtwara",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.06.T6",38.9,1
+"TZA","Kigoma",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.06.T6",56.3,1
+"TZA","Ruvuma",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.06.T6",60.3,1
+"TZA","Iringa",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.06.T6",33.3,1
+"TZA","Morogoro",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.06.T6",61.9,1
+"TZA","Lindi",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.06.T6",61.1,1
+"TZA","Arusha",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.06.T6",59.5,1
+"TZA","Mara",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.06.T6",53.2,1
+"TZA","Rukwa",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.06.T6",66.4,1
+"TZA","Tanga",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.06.T6",75.4,1
+"TZA","Zanzibar/Pemba",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.06.T6",71.4,1
+"TZA","Dar es Salaam",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.06.T6",52.4,1
+"TZA","Shinyanga",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.06.T6",71.4,1
+"TZA","Kilimanjaro",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.06.T6",79.4,1
+"TZA","Pwani",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.06.T6",71.4,1
+"TZA","Mbeya",NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.06.T6",87.3,1
+"TZA",NA,NA,"2005-2006","http://nada.vam.wfp.org/index.php/catalog/42","CHD.B.FOS.06.T6",55.3,1
+"YEM","Abyan",NA,"2011","not yet posted","CHD.B.FOS.06.T6",50.4,1
+"YEM","Ad Daleh",NA,"2011","not yet posted","CHD.B.FOS.06.T6",43.4,1
+"YEM","Aden",NA,"2011","not yet posted","CHD.B.FOS.06.T6",76.6,1
+"YEM","Al Bayda",NA,"2011","not yet posted","CHD.B.FOS.06.T6",23.5,1
+"YEM","Hudeida",NA,"2011","not yet posted","CHD.B.FOS.06.T6",66.7,1
+"YEM","Al Mahra",NA,"2011","not yet posted","CHD.B.FOS.06.T6",86.2,1
+"YEM","Al Mahweet",NA,"2011","not yet posted","CHD.B.FOS.06.T6",70,1
+"YEM","Amran",NA,"2011","not yet posted","CHD.B.FOS.06.T6",54,1
+"YEM","Dhamar",NA,"2011","not yet posted","CHD.B.FOS.06.T6",53.9,1
+"YEM","Hadramout",NA,"2011","not yet posted","CHD.B.FOS.06.T6",81.9,1
+"YEM","Hajjah",NA,"2011","not yet posted","CHD.B.FOS.06.T6",46.7,1
+"YEM","Ibb",NA,"2011","not yet posted","CHD.B.FOS.06.T6",45.5,1
+"YEM","Lahej",NA,"2011","not yet posted","CHD.B.FOS.06.T6",42,1
+"YEM","Mareb",NA,"2011","not yet posted","CHD.B.FOS.06.T6",24.2,1
+"YEM","Rayma",NA,"2011","not yet posted","CHD.B.FOS.06.T6",49.4,1
+"YEM","Sana'a",NA,"2011","not yet posted","CHD.B.FOS.06.T6",30.9,1
+"YEM","Sana'a City",NA,"2011","not yet posted","CHD.B.FOS.06.T6",72.5,1
+"YEM","Shabwa",NA,"2011","not yet posted","CHD.B.FOS.06.T6",62.2,1
+"YEM","Taiz",NA,"2011","not yet posted","CHD.B.FOS.06.T6",52.2,1
+"YEM",NA,NA,"2011","not yet posted","CHD.B.FOS.06.T6",55.5,1
+"YEM","Rayma",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","CHD.B.FOS.06.T6",47.2,1
+"YEM","Hajjah",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","CHD.B.FOS.06.T6",53.7,1
+"YEM","Ibb",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","CHD.B.FOS.06.T6",56,1
+"YEM","Ad Daleh",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","CHD.B.FOS.06.T6",56,1
+"YEM","Amran",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","CHD.B.FOS.06.T6",57.2,1
+"YEM","Al Mahweet",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","CHD.B.FOS.06.T6",59.5,1
+"YEM","Al Bayda",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","CHD.B.FOS.06.T6",61.7,1
+"YEM","Taiz",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","CHD.B.FOS.06.T6",63.6,1
+"YEM","Lahej",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","CHD.B.FOS.06.T6",64.6,1
+"YEM","Mareb",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","CHD.B.FOS.06.T6",66,1
+"YEM","Abyan",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","CHD.B.FOS.06.T6",66.3,1
+"YEM","Hudeida",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","CHD.B.FOS.06.T6",66.8,1
+"YEM","Shabwa",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","CHD.B.FOS.06.T6",73.3,1
+"YEM","Dhamar",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","CHD.B.FOS.06.T6",76.3,1
+"YEM","Sana'a",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","CHD.B.FOS.06.T6",84.4,1
+"YEM","Aden",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","CHD.B.FOS.06.T6",87.9,1
+"YEM","Al Mahra",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","CHD.B.FOS.06.T6",89.7,1
+"YEM","Hadramout",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","CHD.B.FOS.06.T6",90.2,1
+"YEM","Sana'a City",NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","CHD.B.FOS.06.T6",91.5,1
+"YEM",NA,NA,"2009-2010","http://nada.vam.wfp.org/index.php/catalog/34","CHD.B.FOS.06.T6",68.5,1
