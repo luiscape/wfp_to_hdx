@@ -19,6 +19,7 @@ value <- melt(value)
 value$Metadata <- NULL
 value$is_number <- 1
 names(value) <- c('region', 'admin1', 'admin2', 'period', 'source', 'indID', 'value', 'is_number')
+value$dsID <- 'wfp-vam'
 
 # storing CSV
 write.csv(value, 'data/value.csv', row.names = F)
