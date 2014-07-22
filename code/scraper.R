@@ -14,6 +14,7 @@ dataset <- data.frame(dsID = 'wfp-vam', last_updated = NA, last_scraped = as.cha
 ## Cleaning ## 
 value <- source_data
 value[2] <- NULL
+names(value)[5:7] <- c('CHD.B.FOS.04.T6', 'CHD.B.FOS.05.T6', 'CHD.B.FOS.06.T6')
 value <- melt(value)
 value$Metadata <- NULL
 value$is_number <- 1
